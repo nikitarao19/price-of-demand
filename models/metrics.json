@@ -1,0 +1,11 @@
+{
+  "linear": {
+    "rmse": 43.41267008646729,
+    "mae": 28.2152907148361
+  },
+  "gradient_boosting": {
+    "rmse": 56.03715087810387,
+    "mae": 33.355763546548324
+  },
+  "analysis_target": "current_listed_price_midpoint"
+}

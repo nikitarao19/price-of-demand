@@ -10,6 +10,12 @@ from pathlib import Path
 from config import EVENT_PANEL_PATH
 from price_of_demand.data.ticketmaster_client import TicketmasterClient
 
+# 2.5x the old cap of 40: enough genre/venue diversity to make the price-level
+# models meaningful, small enough to stay a fast daily poll and a readable chart.
+PANEL_SIZE = 100
+# Discovery API caps results at 1000 (5 pages of the max page size, 200).
+MAX_PAGES = 5
+
 
 def event_row(event: dict) -> dict[str, str | int]:
     venue = (event.get("_embedded", {}).get("venues") or [{}])[0]
@@ -34,29 +40,36 @@ def has_positive_price(event: dict) -> bool:
     )
 
 
-def discover(output_path: Path = EVENT_PANEL_PATH) -> Path:
+def discover(output_path: Path = EVENT_PANEL_PATH, panel_size: int = PANEL_SIZE) -> Path:
     client = TicketmasterClient()
     start = datetime.now(timezone.utc).replace(microsecond=0)
     end = start + timedelta(days=365)
-    events = client.search_events(
-        classificationName="Music",
-        sort="date,asc",
-        startDateTime=start.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        endDateTime=end.strftime("%Y-%m-%dT%H:%M:%SZ"),
-    )
+    events = []
+    for page in range(MAX_PAGES):
+        page_events = client.search_events(
+            classificationName="Music",
+            countryCode="US",
+            sort="date,asc",
+            startDateTime=start.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            endDateTime=end.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            page=page,
+        )
+        if not page_events:
+            break
+        events.extend(page_events)
     candidates = [event_row(event) for event in events if has_positive_price(event)]
     by_genre = defaultdict(list)
     for row in candidates:
         by_genre[row["genre"]].append(row)
     rows = []
     genre_names = sorted(by_genre)
-    while len(rows) < min(40, len(candidates)):
+    while len(rows) < min(panel_size, len(candidates)):
         added = False
         for genre in genre_names:
             if by_genre[genre]:
                 rows.append(by_genre[genre].pop(0))
                 added = True
-                if len(rows) == 40:
+                if len(rows) == panel_size:
                     break
         if not added:
             break

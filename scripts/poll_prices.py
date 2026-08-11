@@ -4,12 +4,17 @@ from __future__ import annotations
 
 import argparse
 import json
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 from config import EVENT_PANEL_PATH, RAW_DATA_DIR
 from price_of_demand.data.event_panel import load_event_panel
 from price_of_demand.data.ticketmaster_client import TicketmasterClient
+
+# Ticketmaster's Discovery API allows 5 requests/second; spacing calls this way
+# keeps a full panel poll comfortably under that instead of tripping a 429.
+SECONDS_BETWEEN_REQUESTS = 0.25
 
 
 def extract_snapshot(event: object, payload: dict, polled_at: str) -> dict:
@@ -40,7 +45,9 @@ def poll(panel_path: Path = EVENT_PANEL_PATH, output_dir: Path = RAW_DATA_DIR) -
     output_path = output_dir / f"snapshot_{polled_at[:10]}.jsonl"
     client = TicketmasterClient()
     with output_path.open("a", encoding="utf-8") as output_file:
-        for event in load_event_panel(panel_path):
+        for index, event in enumerate(load_event_panel(panel_path)):
+            if index:
+                time.sleep(SECONDS_BETWEEN_REQUESTS)
             payload = client.get_event(event.event_id)
             output_file.write(json.dumps(extract_snapshot(event, payload, polled_at)) + "\n")
     return output_path

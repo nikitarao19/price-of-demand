@@ -13,5 +13,6 @@ data/processed/*
 data/event_panel.csv
 models/*
 !models/.gitkeep
+!models/metrics.json
 reports/*
 !reports/.gitkeep
