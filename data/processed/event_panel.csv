@@ -1,275 +1,101 @@
 event_id,event_name,genre,market,venue_name,venue_capacity,tier,poll_timestamp,event_start,price_min,price_max,currency,days_until_event,price_mid,price_status,price_change,price_change_pct
-1718v0G65VnBvlR,DJ Adoni,Latin,Atlantic City,Ocean Resort Casino - HQ2 Beachclub,,,2026-08-09 21:20:33+00:00,2026-08-09 16:00:00+00:00,,,,-0.22260416666666666,,not_listed,,
-17C8v0G65Rp-J4U,The Rat Pack Is Back (Las Vegas),Undefined,Las Vegas,The Copa Room at Tuscany Suites,,,2026-08-11 01:41:44+00:00,2026-08-11 02:30:00+00:00,,,,0.03351851851851852,,not_listed,,
-17C8v0G6CPi7YSq,Donny Osmond | Official Caesars Ticket + Hotel Packages,Pop,Las Vegas,Harrah's Showroom at Harrah's Las Vegas,,,2026-08-09 21:20:33+00:00,2026-07-09 17:00:00+00:00,,,,-31.1809375,,not_listed,,
-17G8v0G61FCikTp,Mardi Latin Groove ,Latin,Montreal,Le Balcon X Terrasse,,,2026-08-11 01:41:44+00:00,2026-08-11 23:00:00+00:00,,,,0.8876851851851851,,not_listed,,
-17k8v0G617L1T7I,T.I. - The King Succession Tour,Hip-Hop/Rap,Phoenix,The Van Buren,,,2026-08-11 01:41:44+00:00,2026-08-11 03:00:00+00:00,,,,0.05435185185185185,,not_listed,,
-1AbZkooGkdlJ2xT,JOJI: SOLARIS,R&B,Dublin,3Arena,,,2026-08-11 01:41:44+00:00,2026-08-11 17:30:00+00:00,,,,0.6585185185185185,,not_listed,,
-1Ad0ZbYGkDbfd1v,Wayne Newton | Official Caesars Ticket + Hotel Packages,Pop,Las Vegas,Bugsy's Cabaret at Flamingo,,,2026-08-09 21:20:33+00:00,2025-08-15 02:00:00+00:00,,,,-359.8059375,,not_listed,,
-1Ad7ZbYGkI7sEp7,Cigale Laissez-passer 3 jours,Fairs & Festivals,Quebec,Baie de Beauport,,,2026-08-09 21:20:33+00:00,,,,,,,not_listed,,
-1Ae8ZbMGknAVstb,Morning Melodies: Full Season Pass 2026,Other,Takapuna Beach,Bruce Mason Centre,,,2026-08-09 21:20:33+00:00,,,,,,,not_listed,,
-1AeZZ_6GkDfaK0n,Fise World Series 3-day,Extreme,Birmingham ,City Walk BHAM,,,2026-08-09 21:20:33+00:00,,,,,,,not_listed,,
-1AfZkooGkdIUOnJ,Zona Vibra Harry Styles,Pop,Ciudad de México,Estadio GNP Seguros,,,2026-08-11 01:41:44+00:00,2026-08-11 03:00:00+00:00,,,,0.05435185185185185,,not_listed,,
-1AwZk3pGkdfns6b,200 Stab Wounds,Metal,London,The Dome London,,,2026-08-11 01:41:44+00:00,2026-08-11 18:00:00+00:00,,,,0.6793518518518519,,not_listed,,
-1AyZkCaGkeTZ1Y7,MJ Live | Official Caesars Ticket + Hotel Packages,Undefined,Las Vegas,Harrah's Showroom at Harrah's Las Vegas,,,2026-08-09 21:20:33+00:00,2025-12-10 03:00:00+00:00,,,,-242.76427083333334,,not_listed,,
-1ayZkuvONoMZeC2,MJ LIVE – Michael Jackson Tribute Concert,Undefined,Las Vegas,Harrah's Showroom at Harrah's Las Vegas,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,,,,0.012685185185185185,,not_listed,,
-1k78v04kGA2p75w,An Evening with Cat Power: The Greatest Tour,Rock,Vancouver,Commodore Ballroom,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,,,,0.012685185185185185,,not_listed,,
-1kkZvNq_GA5sqgn,Sepultura,Metal,Dublin,3Arena,,,2026-08-09 21:20:33+00:00,2026-08-09 15:00:00+00:00,,,,-0.26427083333333334,,not_listed,,
-G5dFZ975dZstp,Mods Mayday,Rock,London,Round Chapel,,,2026-08-09 21:20:33+00:00,2022-05-02 14:00:00+00:00,,,,-1560.3059375,,not_listed,,
-G5dVZ_1S6fhOl,"Sinfónica de Minería, Abono Sábados ""Temporada de verano"".",Classical,México,Sala Silvestre Revueltas,,,2026-08-09 21:20:33+00:00,,,,,,,not_listed,,
-G5dVZ_1wzTaPE,"Sinfónica de Minería, Abono Domingos ""Temporada de verano"".",Classical,México,Sala Silvestre Revueltas,,,2026-08-09 21:20:33+00:00,,,,,,,not_listed,,
-G5ezZbRBhNSih,Jabbawockeez,Dance/Electronic,Las Vegas,Jabbawockeez Theater at MGM Grand Hotel & Casino,,,2026-08-11 01:41:44+00:00,2026-08-11 03:00:00+00:00,,,,0.05435185185185185,,not_listed,,
-G5vHZbgUSAE6y,*CANCELLED* HERITAGE LIVE: Faithless + Special Guests,Dance/Electronic,Essex,Audley End,,,2026-08-09 21:20:33+00:00,2026-08-09 13:00:00+00:00,,,,-0.34760416666666666,,not_listed,,
-G5vYZbVEEcqET,Remember When - The Ultimate Tribute to Alan Jackson,Country,Sacramento,Crest Theater,,,2026-08-09 21:20:33+00:00,2025-11-22 04:00:00+00:00,,,,-260.72260416666666,,not_listed,,
-G5viZbmRJBgQk,Welcome Home Tour: Rio Da Yung Og,Hip-Hop/Rap,Memphis,Minglewood Hall,,,2026-08-09 21:20:33+00:00,2025-08-26 01:00:00+00:00,,,,-348.84760416666666,,not_listed,,
-LvZ18Q0ccTSGjCqO_Q8j1,Stand Up With The Real McCoy | Jamaican Independence Special – Manchester,Comedy,,,,,2026-08-09 21:20:33+00:00,2026-08-09 16:00:00+00:00,,,,-0.22260416666666666,,not_listed,,
-LvZ18Q0zNFNJzOWYaGb0v,Stage Door Guy,Blues,London,New Cross Inn,,,2026-08-11 01:41:44+00:00,2026-08-11 17:00:00+00:00,,,,0.6376851851851851,,not_listed,,
-LvZ18QE6ktDgNEpoQl6XI,Sunday Soul Sessions,R&B,London,"Boisdale, Canary Wharf",,,2026-08-09 21:20:33+00:00,2026-08-09 11:30:00+00:00,,,,-0.41010416666666666,,not_listed,,
-LvZ18QJmtiOlHyO4r6Sbm,Slip & Slide - Jamaican Independence Party Supported By Wray & Nephews,Reggae,London,Pop Brixton,,,2026-08-09 21:20:33+00:00,2026-08-09 15:00:00+00:00,,,,-0.26427083333333334,,not_listed,,
-LvZ18QNN17M1WEYZ0LuTT,Light Of Eternity,Metal,York,The Crescent,,,2026-08-09 21:20:33+00:00,2026-08-09 17:30:00+00:00,,,,-0.16010416666666666,,not_listed,,
-LvZ18QQU1_vP4bYZV7V09,COBO : Comedy Shutdown | Jamaican Independence Special - Birmingham,Comedy,Birmingham,Glee Club,,,2026-08-09 21:20:33+00:00,2026-08-09 18:30:00+00:00,,,,-0.1184375,,not_listed,,
-LvZ18QbowuYgwI8ZvEi0C,Party At The Palace 2026 - Day Tickets,Folk,Linlithgow,"The Peel, Linlithgow Palace",,,2026-08-09 21:20:33+00:00,2026-08-09 11:00:00+00:00,,,,-0.4309375,,not_listed,,
-LvZ18Qxe74hhumYvOuBWe,Rob Strong at Howth Roots & Blues Festival 2026,Blues,Dublin,Abbey Tavern,,,2026-08-09 21:20:33+00:00,2026-08-09 12:30:00+00:00,,,,-0.3684375,,not_listed,,
-Z2HyzZyMZkCLqdvve,Bayhan,Music,Antalya,Antalya Open Air,,,2026-08-09 21:20:33+00:00,2026-08-09 18:00:00+00:00,,,,-0.13927083333333334,,not_listed,,
-Z2HyzZyMZk_44vvve,Tekir,Music,Balıkesir,Hayal Kahvesi Burhaniye,,,2026-08-09 21:20:33+00:00,2026-08-09 19:00:00+00:00,,,,-0.09760416666666667,,not_listed,,
-Z698xZC2Z1kAd8Vuz,Young Euro Classic | Mäuse auf dem Mond,Children's Music,Berlin,,,,2026-08-09 21:20:33+00:00,2026-08-09 12:00:00+00:00,,,,-0.38927083333333334,,not_listed,,
-Z698xZQpZ16vbxPtOb,Koncert przy świecach,Classical,Warsaw,Sala koncertowa Fryderyk,,,2026-08-11 01:41:44+00:00,2026-08-11 19:00:00+00:00,,,,0.7210185185185185,,not_listed,,
-Z698xZQpZ16vra1ZuI,The Living Tombstone: Multiplayer Tour,Dance/Electronic,Poznan,Klub B17,,,2026-08-11 01:41:44+00:00,2026-08-11 17:00:00+00:00,,,,0.6376851851851851,,not_listed,,
-Z698xZQpZ1k0bPbvy,Koncert Chopinowski,Classical,Warsaw,Sala koncertowa Fryderyk,,,2026-08-11 01:41:44+00:00,2026-08-11 17:00:00+00:00,,,,0.6376851851851851,,not_listed,,
-Z698xZQpZ1kjPo_oV,Jalen Ngonda - Doctrine Of Love Tour 2026,R&B,Warsaw,Klub Palladium,,,2026-08-11 01:41:44+00:00,2026-08-11 17:00:00+00:00,,,,0.6376851851851851,,not_listed,,
-Z698xZb_Z1k36jIfI,Saga Oseberg,Fairs & Festivals,Horten,Midgard Vikingsenter,,,2026-08-11 01:41:44+00:00,2026-08-11 09:00:00+00:00,,,,0.3043518518518519,,not_listed,,
-Z698xZb_Z1k4ebwG3,Masterwork recital - Grieg/Rachmaninoff recital,Theatre,Oslo,"Kampen Kirke, Oslo",,,2026-08-09 21:20:33+00:00,2026-08-09 17:00:00+00:00,,,,-0.1809375,,not_listed,,
-Z698xZbpZ16vOvuKbP,Anouk + Clouseau | Lockers Large,Other,Tilburg,Spoorpark LIVE,,,2026-08-09 21:20:33+00:00,,,,,,,not_listed,,
-Z7r9jZ1A7PU8S,Robert Cray Band,Blues,Oakland,Yoshi's Oakland,,,2026-08-11 01:41:44+00:00,2026-08-11 03:00:00+00:00,,,,0.05435185185185185,,not_listed,,
-k7vGF_ARw4R8K,Jazz at Lincoln Center Presents: 2026 Jazz Series at Bethel Woods,Jazz,Bethel,Bethel Woods Center for the Arts,,,2026-08-09 21:20:33+00:00,,,,,,,not_listed,,
-rZ7HnEZ1A4Z-4K,Sadhu & Friends,Hip-Hop/Rap,Cleveland Heights,B Side Lounge,,,2026-08-11 21:07:50+00:00,2026-08-15 00:00:00+00:00,12.59,15.16,USD,3.1195601851851853,13.875,listed,,
-rZ7HnEZ1A4Z07S,Tj Rosenthal,Country,New York,Lucinda's,,,2026-08-11 01:41:44+00:00,2026-08-11 01:00:00+00:00,0.0,0.0,USD,-0.028981481481481483,0.0,free_or_no_charge,,
-rZ7HnEZ1A4Z38d,Bye Bye Buenos: The Undertaking with special guests,Metal,San Diego,Brick By Brick,,,2026-08-11 21:07:50+00:00,2026-08-14 01:30:00+00:00,20.63,26.28,USD,2.1820601851851853,23.455,listed,,
-rZ7HnEZ1A4Z7PN,Live Piano Karaoke w/ Leslie Goshko,Pop,New York,Wild Horses,,,2026-08-11 01:41:44+00:00,2026-08-11 00:00:00+00:00,0.0,0.0,USD,-0.07064814814814815,0.0,free_or_no_charge,,
-rZ7HnEZ1A4Z87N,Boots at the Brewery | Line Dancing,Country,Syracuse,Middle Ages Music Hall,,,2026-08-11 21:07:07+00:00,2026-08-12 23:00:00+00:00,12.88,12.88,USD,1.0783912037037038,12.88,listed,,
-rZ7HnEZ1A4Z87N,Boots at the Brewery | Line Dancing,Country,Syracuse,Middle Ages Music Hall,,,2026-08-11 21:07:50+00:00,2026-08-12 23:00:00+00:00,12.88,12.88,USD,1.0778935185185186,12.88,listed,0.0,0.0
-rZ7HnEZ1A4ZZed,Frank Bang,Blues,Westland,downstairs at Joy Manor,,,2026-08-11 21:07:07+00:00,2026-08-14 00:00:00+00:00,24.38,24.38,USD,2.1200578703703705,24.38,listed,,
-rZ7HnEZ1A4ZZed,Frank Bang,Blues,Westland,downstairs at Joy Manor,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,24.38,24.38,USD,2.1195601851851853,24.38,listed,0.0,0.0
-rZ7HnEZ1A4Zo7S,Specialized Karaoke Night with RUEN,Alternative,Dallas,Three Links Deep Ellum,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,0.0,0.0,USD,0.012685185185185185,0.0,free_or_no_charge,,
-rZ7HnEZ1A4Zx-N,"Hot Mic! Every 2nd Tuesday at The Nick, doors 7pm",Alternative,Birmingham,The Nick,,,2026-08-11 21:07:50+00:00,2026-08-12 01:00:00+00:00,8.72,8.72,USD,0.16122685185185184,8.72,listed,,
-rZ7HnEZ1A4Zx-d,Super Funny Karaoke,R&B,Tacoma,Nate Jackson's Super Funny Comedy Club,,,2026-08-11 21:07:07+00:00,2026-08-12 02:00:00+00:00,7.22,7.22,USD,0.2033912037037037,7.22,listed,,
-rZ7HnEZ1A4Zx-d,Super Funny Karaoke,R&B,Tacoma,Nate Jackson's Super Funny Comedy Club,,,2026-08-11 21:07:50+00:00,2026-08-12 02:00:00+00:00,7.22,7.22,USD,0.20289351851851853,7.22,listed,0.0,0.0
-rZ7HnEZ1AKPw7V,KARAOKE FROM HELL,Other,Portland,Dante's,,,2026-08-11 01:56:39+00:00,2026-08-11 04:00:00+00:00,8.26,8.26,USD,0.08565972222222222,8.26,listed,,
-rZ7HnEZ1Af-0-d,Vince Giordano and the Nighthawks,Rock,New York,Birdland Theater,,,2026-08-11 01:41:44+00:00,2026-08-11 00:30:00+00:00,0.0,0.0,USD,-0.04981481481481481,0.0,free_or_no_charge,,
-rZ7HnEZ1Af-00d,Vince Giordano and the Nighthawks,Rock,New York,Birdland Theater,,,2026-08-11 01:56:39+00:00,2026-08-12 00:30:00+00:00,24.91,45.76,USD,0.9398263888888889,35.335,listed,,
-rZ7HnEZ1Af-00d,Vince Giordano and the Nighthawks,Rock,New York,Birdland Theater,,,2026-08-11 21:07:50+00:00,2026-08-12 00:30:00+00:00,24.91,45.76,USD,0.14039351851851853,35.335,listed,0.0,0.0
-rZ7HnEZ1Af-0Cd,Monty Alexander,Jazz,New York,Birdland Jazz Club,,,2026-08-11 21:07:50+00:00,2026-08-12 23:00:00+00:00,45.76,56.06,USD,1.0778935185185186,50.91,listed,,
-rZ7HnEZ1Af-0GK,Monty Alexander,Jazz,New York,Birdland Jazz Club,,,2026-08-11 01:56:39+00:00,2026-08-11 23:00:00+00:00,45.76,56.06,USD,0.8773263888888889,50.91,listed,,
-rZ7HnEZ1Af-0uK,Monty Alexander,Jazz,New York,Birdland Jazz Club,,,2026-08-11 21:07:07+00:00,2026-08-12 01:30:00+00:00,45.76,56.06,USD,0.18255787037037038,50.91,listed,,
-rZ7HnEZ1Af-0uK,Monty Alexander,Jazz,New York,Birdland Jazz Club,,,2026-08-11 21:07:50+00:00,2026-08-12 01:30:00+00:00,45.76,56.06,USD,0.18206018518518519,50.91,listed,0.0,0.0
-rZ7HnEZ1Af-0xK,Vince Giordano and the Nighthawks,Rock,New York,Birdland Theater,,,2026-08-11 01:56:39+00:00,2026-08-11 21:30:00+00:00,24.91,45.76,USD,0.8148263888888889,35.335,listed,,
-rZ7HnEZ1Af-61K,Brandon Woody's Upendo,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 01:56:39+00:00,2026-08-11 02:30:00+00:00,32.33,43.66,USD,0.023159722222222224,37.995,listed,,
-rZ7HnEZ1Af-8vS,Chris Smither,Pop,Evanston,SPACE,,,2026-08-11 21:07:50+00:00,2026-08-14 01:00:00+00:00,27.27,53.81,USD,2.161226851851852,40.54,listed,,
-rZ7HnEZ1Af-EPK,The High Society New Orleans Jazz Band,Folk,New York,Birdland Theater,,,2026-08-11 21:07:07+00:00,2026-08-13 21:30:00+00:00,35.46,45.76,USD,2.0158912037037036,40.61,listed,,
-rZ7HnEZ1Af-EPK,The High Society New Orleans Jazz Band,Folk,New York,Birdland Theater,,,2026-08-11 21:07:50+00:00,2026-08-13 21:30:00+00:00,35.46,45.76,USD,2.0153935185185183,40.61,listed,0.0,0.0
-rZ7HnEZ1Af-EPd,The High Society New Orleans Jazz Band,Folk,New York,Birdland Theater,,,2026-08-11 21:07:50+00:00,2026-08-14 00:30:00+00:00,35.46,45.76,USD,2.1403935185185183,40.61,listed,,
-rZ7HnEZ1Af-Pvd,David Ostwald's Louis Armstrong Eternity Band,Jazz,New York,Birdland Theater,,,2026-08-11 21:07:07+00:00,2026-08-12 21:30:00+00:00,35.46,45.76,USD,1.0158912037037038,40.61,listed,,
-rZ7HnEZ1Af-Pvd,David Ostwald's Louis Armstrong Eternity Band,Jazz,New York,Birdland Theater,,,2026-08-11 21:07:50+00:00,2026-08-12 21:30:00+00:00,35.46,45.76,USD,1.0153935185185186,40.61,listed,0.0,0.0
-rZ7HnEZ1Af-Y1K,"Liam St. John, Davis Corley",Blues,Boise,9th St. Parallel at Knitting Factory,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,32.86,32.86,USD,0.012685185185185185,32.86,listed,,
-rZ7HnEZ1Af-Y1K,"Liam St. John, Davis Corley",Blues,Boise,9th St. Parallel at Knitting Factory,,,2026-08-11 01:56:39+00:00,2026-08-11 02:00:00+00:00,32.86,32.86,USD,0.0023263888888888887,32.86,listed,0.0,0.0
-rZ7HnEZ1Af-YOK,Kill Bill: The Rapper - I FOUND THE END Tour,Hip-Hop/Rap,Syracuse,The Song & Dance,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,26.44,67.89,USD,0.8981597222222222,47.165,listed,,
-rZ7HnEZ1Af-YOK,Kill Bill: The Rapper - I FOUND THE END Tour,Hip-Hop/Rap,Syracuse,The Song & Dance,,,2026-08-11 21:07:07+00:00,2026-08-11 23:30:00+00:00,31.59,31.59,USD,0.09922453703703704,31.59,listed,-15.575,-0.3302236828156472
-rZ7HnEZ1Af-YOK,Kill Bill: The Rapper - I FOUND THE END Tour,Hip-Hop/Rap,Syracuse,The Song & Dance,,,2026-08-11 21:07:50+00:00,2026-08-11 23:30:00+00:00,31.59,31.59,USD,0.09872685185185186,31.59,listed,0.0,0.0
-rZ7HnEZ1Af-Yfd,"Easy Honey, Margot Sinclair",Alternative,Philadelphia,Nikki Lopez Philly,,,2026-08-11 01:56:39+00:00,2026-08-11 23:00:00+00:00,19.49,19.49,USD,0.8773263888888889,19.49,listed,,
-rZ7HnEZ1Af-Yfd,"Easy Honey, Margot Sinclair",Alternative,Philadelphia,Nikki Lopez Philly,,,2026-08-11 21:07:07+00:00,2026-08-11 23:00:00+00:00,19.49,19.49,USD,0.0783912037037037,19.49,listed,0.0,0.0
-rZ7HnEZ1Af-Yfd,"Easy Honey, Margot Sinclair",Alternative,Philadelphia,Nikki Lopez Philly,,,2026-08-11 21:07:50+00:00,2026-08-11 23:00:00+00:00,19.49,19.49,USD,0.07789351851851851,19.49,listed,0.0,0.0
-rZ7HnEZ1Af0-0d,Line Dance Lessons at Diamondback Music Hall,Undefined,Belleville,Diamondback Music Hall,,,2026-08-11 21:07:07+00:00,2026-08-12 23:00:00+00:00,11.8,19.51,USD,1.0783912037037038,15.655000000000001,listed,,
-rZ7HnEZ1Af0-0d,Line Dance Lessons at Diamondback Music Hall,Undefined,Belleville,Diamondback Music Hall,,,2026-08-11 21:07:50+00:00,2026-08-12 23:00:00+00:00,11.8,19.51,USD,1.0778935185185186,15.655000000000001,listed,0.0,0.0
-rZ7HnEZ1Af00oK,Dale Watson,Country,Evanston,SPACE,,,2026-08-11 01:56:39+00:00,2026-08-12 00:30:00+00:00,33.9,53.81,USD,0.9398263888888889,43.855000000000004,listed,,
-rZ7HnEZ1Af00oK,Dale Watson,Country,Evanston,SPACE,,,2026-08-11 21:07:07+00:00,2026-08-12 00:30:00+00:00,33.9,53.81,USD,0.1408912037037037,43.855000000000004,listed,0.0,0.0
-rZ7HnEZ1Af00oK,Dale Watson,Country,Evanston,SPACE,,,2026-08-11 21:07:50+00:00,2026-08-12 00:30:00+00:00,33.9,53.81,USD,0.14039351851851853,43.855000000000004,listed,0.0,0.0
-rZ7HnEZ1Af090S,Josh Tatofi w/ Abby Anderson & Kala'e & Kalena,R&B,Nashville,The Basement East,,,2026-08-11 21:07:50+00:00,2026-08-14 01:00:00+00:00,39.41,74.43,USD,2.161226851851852,56.92,listed,,
-rZ7HnEZ1Af0YFN,Nonpoint,Alternative,Lexington,Manchester Music Hall,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,44.34,143.47,USD,0.8981597222222222,93.905,listed,,
-rZ7HnEZ1Af0YFN,Nonpoint,Alternative,Lexington,Manchester Music Hall,,,2026-08-11 21:07:07+00:00,2026-08-11 23:30:00+00:00,45.37,143.47,USD,0.09922453703703704,94.42,listed,0.5150000000000006,0.005484266013524364
-rZ7HnEZ1Af0YFN,Nonpoint,Alternative,Lexington,Manchester Music Hall,,,2026-08-11 21:07:50+00:00,2026-08-11 23:30:00+00:00,45.37,143.47,USD,0.09872685185185186,94.42,listed,0.0,0.0
-rZ7HnEZ1Af0Yod,Geena Fontanella w/ David Michael Frank & Attaboy,Pop,Columbus,Rumba Cafe,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,26.0,114.95,USD,0.8981597222222222,70.475,listed,,
-rZ7HnEZ1Af0Yod,Geena Fontanella w/ David Michael Frank & Attaboy,Pop,Columbus,Rumba Cafe,,,2026-08-11 21:07:07+00:00,2026-08-11 23:30:00+00:00,26.0,114.95,USD,0.09922453703703704,70.475,listed,0.0,0.0
-rZ7HnEZ1Af0Yod,Geena Fontanella w/ David Michael Frank & Attaboy,Pop,Columbus,Rumba Cafe,,,2026-08-11 21:07:50+00:00,2026-08-11 23:30:00+00:00,26.0,114.95,USD,0.09872685185185186,70.475,listed,0.0,0.0
-rZ7HnEZ1Af0ZGN,Jed Harrerlson with Them Ol Ghosts,Blues,Baton Rouge,Chelsea’s Live,,,2026-08-11 21:07:50+00:00,2026-08-14 01:00:00+00:00,25.94,57.34,USD,2.161226851851852,41.64,listed,,
-rZ7HnEZ1Af0oFd,"Alex Amen w/ Fallen Oaks, Robert Leslie (partially seated)",Folk,Seattle,Tractor,,,2026-08-11 01:41:44+00:00,2026-08-11 02:30:00+00:00,21.99,21.99,USD,0.03351851851851852,21.99,listed,,
-rZ7HnEZ1Af0oFd,"Alex Amen w/ Fallen Oaks, Robert Leslie (partially seated)",Folk,Seattle,Tractor,,,2026-08-11 01:56:39+00:00,2026-08-11 02:30:00+00:00,21.99,21.99,USD,0.023159722222222224,21.99,listed,0.0,0.0
-rZ7HnEZ1Af0xOK,April and The Funk Junkies,Dance/Electronic,Solana Beach,Belly Up,,,2026-08-11 21:07:50+00:00,2026-08-15 00:30:00+00:00,12.8,25.3,USD,3.1403935185185183,19.05,listed,,
-rZ7HnEZ1AfA3-V,Ladies Night 2026,Country,Aurora,Stampede,,,2026-08-11 21:07:07+00:00,2026-08-13 00:00:00+00:00,16.56,16.56,USD,1.1200578703703703,16.56,listed,,
-rZ7HnEZ1AfA3-V,Ladies Night 2026,Country,Aurora,Stampede,,,2026-08-11 21:07:50+00:00,2026-08-13 00:00:00+00:00,16.56,16.56,USD,1.119560185185185,16.56,listed,0.0,0.0
-rZ7HnEZ1AfA8x7,Overtime,Hip-Hop/Rap,Joliet,The Forge,,,2026-08-11 21:07:07+00:00,2026-08-14 00:00:00+00:00,17.05,117.75,USD,2.1200578703703705,67.4,listed,,
-rZ7HnEZ1AfA8x7,Overtime,Hip-Hop/Rap,Joliet,The Forge,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,17.05,117.75,USD,2.1195601851851853,67.4,listed,0.0,0.0
-rZ7HnEZ1AfF-Z7,"Still Rings, Me At Night, Olive Bernard",Alternative,New York,Night Club 101,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,20.01,20.01,USD,0.9189930555555555,20.01,listed,,
-rZ7HnEZ1AfF-Z7,"Still Rings, Me At Night, Olive Bernard",Alternative,New York,Night Club 101,,,2026-08-11 21:07:07+00:00,2026-08-12 00:00:00+00:00,20.01,20.01,USD,0.12005787037037037,20.01,listed,0.0,0.0
-rZ7HnEZ1AfF-Z7,"Still Rings, Me At Night, Olive Bernard",Alternative,New York,Night Club 101,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,20.01,20.01,USD,0.11956018518518519,20.01,listed,0.0,0.0
-rZ7HnEZ1AfF-_f,"Cottage Corpse, I-90 Fiasco & Athleisure",Rock,Seattle,Tractor,,,2026-08-11 21:07:50+00:00,2026-08-12 02:30:00+00:00,16.42,16.42,USD,0.22372685185185184,16.42,listed,,
-rZ7HnEZ1AfF300,"LITTLE MOON , Bly Wallentine",Pop,Boise,Neurolux Lounge,,,2026-08-11 21:07:07+00:00,2026-08-12 02:00:00+00:00,18.63,18.63,USD,0.2033912037037037,18.63,listed,,
-rZ7HnEZ1AfF300,"LITTLE MOON , Bly Wallentine",Pop,Boise,Neurolux Lounge,,,2026-08-11 21:07:50+00:00,2026-08-12 02:00:00+00:00,18.63,18.63,USD,0.20289351851851853,18.63,listed,0.0,0.0
-rZ7HnEZ1AfF4Qf,Thursday Night Death Metal w/ Mutilation Barbecue / Inoculation / Casket Splinter / Fucked 2 Death / 1000x Saliva,Metal,Cleveland Heights,Grog Shop,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,19.51,19.51,USD,2.1195601851851853,19.51,listed,,
-rZ7HnEZ1AfFAJ7,JEFFREY NOTHING (Co-founding singer of Mushroomhead) • Dizasterpiece • Sons Of The Pyre,Metal,Westland,The Token Lounge,,,2026-08-11 01:41:44+00:00,2026-08-11 22:00:00+00:00,24.38,24.38,USD,0.8460185185185185,24.38,listed,,
-rZ7HnEZ1AfFAJ7,JEFFREY NOTHING (Co-founding singer of Mushroomhead) • Dizasterpiece • Sons Of The Pyre,Metal,Westland,The Token Lounge,,,2026-08-11 01:56:39+00:00,2026-08-11 22:00:00+00:00,24.38,24.38,USD,0.8356597222222222,24.38,listed,0.0,0.0
-rZ7HnEZ1AfFAJ7,JEFFREY NOTHING (Co-founding singer of Mushroomhead) • Dizasterpiece • Sons Of The Pyre,Metal,Westland,The Token Lounge,,,2026-08-11 21:07:07+00:00,2026-08-11 22:00:00+00:00,24.38,24.38,USD,0.036724537037037035,24.38,listed,0.0,0.0
-rZ7HnEZ1AfFAJ7,JEFFREY NOTHING (Co-founding singer of Mushroomhead) • Dizasterpiece • Sons Of The Pyre,Metal,Westland,The Token Lounge,,,2026-08-11 21:07:50+00:00,2026-08-11 22:00:00+00:00,24.38,24.38,USD,0.03622685185185185,24.38,listed,0.0,0.0
-rZ7HnEZ1AfF_G0,Murphys Law Jimmys Birthday Cruise!,Other,New York,ROCKS OFF Concert Cruise Series,,,2026-08-11 21:07:50+00:00,2026-08-12 23:00:00+00:00,49.06,49.06,USD,1.0778935185185186,49.06,listed,,
-rZ7HnEZ1AfFdf0,"One Night Live Presents Frail Talk, Anna Applegate",Rock,Newport,The Southgate House Revival - Revival Room,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.9189930555555555,21.43,listed,,
-rZ7HnEZ1AfFdf0,"One Night Live Presents Frail Talk, Anna Applegate",Rock,Newport,The Southgate House Revival - Revival Room,,,2026-08-11 21:07:07+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.12005787037037037,21.43,listed,0.0,0.0
-rZ7HnEZ1AfFdf0,"One Night Live Presents Frail Talk, Anna Applegate",Rock,Newport,The Southgate House Revival - Revival Room,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.11956018518518519,21.43,listed,0.0,0.0
-rZ7HnEZ1AfFe1f,Mutlu,R&B,Nashville,The Basement,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,12.85,12.85,USD,2.1195601851851853,12.85,listed,,
-rZ7HnEZ1AfFe7V,Gallant,R&B,San Diego,SOMA - Sidestage,,,2026-08-11 21:07:07+00:00,2026-08-13 03:00:00+00:00,34.31,34.31,USD,1.2450578703703703,34.31,listed,,
-rZ7HnEZ1AfFe7V,Gallant,R&B,San Diego,SOMA - Sidestage,,,2026-08-11 21:07:50+00:00,2026-08-13 03:00:00+00:00,34.31,34.31,USD,1.244560185185185,34.31,listed,0.0,0.0
-rZ7HnEZ1AfFoQ7,"Ani DiFranco, Wryn",Folk,Solana Beach,Belly Up,,,2026-08-11 21:07:07+00:00,2026-08-12 03:00:00+00:00,59.8,59.8,USD,0.24505787037037038,59.8,listed,,
-rZ7HnEZ1AfFoQ7,"Ani DiFranco, Wryn",Folk,Solana Beach,Belly Up,,,2026-08-11 21:07:50+00:00,2026-08-12 03:00:00+00:00,59.8,59.8,USD,0.24456018518518519,59.8,listed,0.0,0.0
-rZ7HnEZ1AfFt07,Lyrical Rhythms,R&B,Cleveland Heights,B Side Lounge,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,6.67,6.67,USD,0.9189930555555555,6.67,listed,,
-rZ7HnEZ1AfFt07,Lyrical Rhythms,R&B,Cleveland Heights,B Side Lounge,,,2026-08-11 21:07:07+00:00,2026-08-12 00:00:00+00:00,6.67,6.67,USD,0.12005787037037037,6.67,listed,0.0,0.0
-rZ7HnEZ1AfFt07,Lyrical Rhythms,R&B,Cleveland Heights,B Side Lounge,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,6.67,6.67,USD,0.11956018518518519,6.67,listed,0.0,0.0
-rZ7HnEZ1AfFz80,"Lesser Birds, The Collect Pond, Good Karma, Plastic Actors",Rock,Cambridge,Middle East - Upstairs,,,2026-08-11 01:56:39+00:00,2026-08-11 23:00:00+00:00,20.34,20.34,USD,0.8773263888888889,20.34,listed,,
-rZ7HnEZ1AfFz80,"Lesser Birds, The Collect Pond, Good Karma, Plastic Actors",Rock,Cambridge,Middle East - Upstairs,,,2026-08-11 21:07:07+00:00,2026-08-11 23:00:00+00:00,20.34,20.34,USD,0.0783912037037037,20.34,listed,0.0,0.0
-rZ7HnEZ1AfFz80,"Lesser Birds, The Collect Pond, Good Karma, Plastic Actors",Rock,Cambridge,Middle East - Upstairs,,,2026-08-11 21:07:50+00:00,2026-08-11 23:00:00+00:00,20.34,20.34,USD,0.07789351851851851,20.34,listed,0.0,0.0
-rZ7HnEZ1AfJ94K,"Abandoned Jukebox Featuring the Most Recorded Musicians in Music, Film & Television: Dean Parks • George Doering • Steve Lindsey • Jim Cox • Sean Hurley • Charlie Faragher • Bernie Dresel  & Friends",Jazz,Los Angeles,Blue Note Los Angeles,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,18.8,31.88,USD,0.012685185185185185,25.34,listed,,
-rZ7HnEZ1AfJ94K,"Abandoned Jukebox Featuring the Most Recorded Musicians in Music, Film & Television: Dean Parks • George Doering • Steve Lindsey • Jim Cox • Sean Hurley • Charlie Faragher • Bernie Dresel  & Friends",Jazz,Los Angeles,Blue Note Los Angeles,,,2026-08-11 01:56:39+00:00,2026-08-11 02:00:00+00:00,18.8,31.88,USD,0.0023263888888888887,25.34,listed,0.0,0.0
-rZ7HnEZ1AfJA3K,Angela Easley,Blues,Biloxi,Ground Zero Blues Club Biloxi,,,2026-08-11 21:07:50+00:00,2026-08-15 00:00:00+00:00,22.35,187.15,USD,3.1195601851851853,104.75,listed,,
-rZ7HnEZ1AfJbPN,Magic Hunks,Dance/Electronic,Columbus,Skully's Music Diner,,,2026-08-11 01:41:44+00:00,2026-08-12 00:00:00+00:00,25.95,59.95,USD,0.9293518518518519,42.95,listed,,
-rZ7HnEZ1AfJbPN,Magic Hunks,Dance/Electronic,Columbus,Skully's Music Diner,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,25.95,59.95,USD,0.9189930555555555,42.95,listed,0.0,0.0
-rZ7HnEZ1AfJbPN,Magic Hunks,Dance/Electronic,Columbus,Skully's Music Diner,,,2026-08-11 21:07:07+00:00,2026-08-12 00:00:00+00:00,25.95,59.95,USD,0.12005787037037037,42.95,listed,0.0,0.0
-rZ7HnEZ1AfJbPN,Magic Hunks,Dance/Electronic,Columbus,Skully's Music Diner,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,25.95,59.95,USD,0.11956018518518519,42.95,listed,0.0,0.0
-rZ7HnEZ1AfJbbK,Oliver Sayani & Timbo,Country,Nashville,The Basement,,,2026-08-11 21:07:50+00:00,2026-08-13 00:00:00+00:00,12.85,12.85,USD,1.119560185185185,12.85,listed,,
-rZ7HnEZ1AfJvud,"Donkey Basketball, Klej, Governor Vomit",Alternative,New York,Night Club 101,,,2026-08-09 21:20:33+00:00,2026-08-09 22:30:00+00:00,24.13,24.13,USD,0.04822916666666666,24.13,listed,,
-rZ7HnEZ1AfOVaN,STS9 Human Dream Tour,Dance/Electronic,Bend,Midtown,,,2026-08-11 21:07:07+00:00,2026-08-13 03:00:00+00:00,48.31,48.31,USD,1.2450578703703703,48.31,listed,,
-rZ7HnEZ1AfOVaN,STS9 Human Dream Tour,Dance/Electronic,Bend,Midtown,,,2026-08-11 21:07:50+00:00,2026-08-13 03:00:00+00:00,48.31,48.31,USD,1.244560185185185,48.31,listed,0.0,0.0
-rZ7HnEZ1AfO_bS,The World Famous Harlem Gospel Choir,Religious,New York,Blue Note Jazz Club,,,2026-08-09 21:20:33+00:00,2026-08-09 17:30:00+00:00,11.01,43.66,USD,-0.16010416666666666,27.334999999999997,listed,,
-rZ7HnEZ1AfP0Ad,THE CYBERTRONIC SPREE - P.R.O.M. TOUR,Rock,Phoenix,Crescent Ballroom,,,2026-08-11 21:07:50+00:00,2026-08-12 02:30:00+00:00,30.89,43.25,USD,0.22372685185185184,37.07,listed,,
-rZ7HnEZ1AfP80N,"Benjamin William Hastings + Aodhán King: Happy To Be Here Tour - Sacramento (Elk Grove), CA",Religious,Elk Grove,Creekside Christian Church,,,2026-08-11 21:07:07+00:00,2026-08-13 02:00:00+00:00,27.62,93.02,USD,1.2033912037037038,60.32,listed,,
-rZ7HnEZ1AfP80N,"Benjamin William Hastings + Aodhán King: Happy To Be Here Tour - Sacramento (Elk Grove), CA",Religious,Elk Grove,Creekside Christian Church,,,2026-08-11 21:07:50+00:00,2026-08-13 02:00:00+00:00,27.62,93.02,USD,1.2028935185185186,60.32,listed,0.0,0.0
-rZ7HnEZ1AfPIbK,ROLLING QUARTZ [MY TURN] 2026 TOUR in Montreal,Pop,Montreal,Piranha Bar,,,2026-08-11 01:56:39+00:00,2026-08-11 23:00:00+00:00,49.6,332.69,CAD,0.8773263888888889,191.145,listed,,
-rZ7HnEZ1AfPK3d,"Benjamin William Hastings + Aodhán King: Happy To Be Here Tour - Grants Pass, OR",Religious,Grants Pass,Edgewater Christian Fellowship,,,2026-08-11 21:07:50+00:00,2026-08-14 02:00:00+00:00,27.62,93.02,USD,2.2028935185185183,60.32,listed,,
-rZ7HnEZ1AfPY3d,FREE MONDAY w/ Goose Harrington / World Energy Corporation / Hungu,Other,Chicago,Empty Bottle,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,0.0,0.0,USD,0.012685185185185185,0.0,free_or_no_charge,,
-rZ7HnEZ1AfPZuN,RIOT,Dance/Electronic,Kansas City,Aura KC,,,2026-08-11 21:07:07+00:00,2026-08-14 02:30:00+00:00,18.95,31.24,USD,2.224224537037037,25.095,listed,,
-rZ7HnEZ1AfPZuN,RIOT,Dance/Electronic,Kansas City,Aura KC,,,2026-08-11 21:07:50+00:00,2026-08-14 02:30:00+00:00,18.95,31.24,USD,2.223726851851852,25.095,listed,0.0,0.0
-rZ7HnEZ1AfPe3d,"SOLD OUT Mimosas & Motown: NEXT AVAILABLE SHOW IS SEPT. 13 / Sunday Brunch, August 09, 2026 Brunch in Anzu at 11:30 AM / Show at 12:45 PM",R&B,San Francisco,Feinstein's at The Nikko,,,2026-08-09 21:20:33+00:00,2026-08-09 18:30:00+00:00,0.0,0.0,USD,-0.1184375,0.0,free_or_no_charge,,
-rZ7HnEZ1AfPeZS,Ben Nichols - In The Heart of the Mountain Tour,Rock,Ottawa,The 27 Club,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,35.49,35.49,CAD,0.8981597222222222,35.49,listed,,
-rZ7HnEZ1AfPe_N,"The SpYder Stompers  , Andy Cohen + Eleanor Ellis + Bill Ellis ",Folk,Cleveland,Treelawn Social Club,,,2026-08-11 21:07:50+00:00,2026-08-13 23:30:00+00:00,23.88,23.88,USD,2.098726851851852,23.88,listed,,
-rZ7HnEZ1AfPekd,Gay Ole Opry Presents: Lilith Feral 2-SHOW-PASS,Other,Nashville,The Basement,,,2026-08-11 01:41:44+00:00,2026-07-15 14:00:00+00:00,27.22,27.22,USD,-26.487314814814816,27.22,listed,,
-rZ7HnEZ1AfPekd,Gay Ole Opry Presents: Lilith Feral 2-SHOW-PASS,Other,Nashville,The Basement,,,2026-08-11 01:56:39+00:00,2026-07-15 14:00:00+00:00,27.22,27.22,USD,-26.49767361111111,27.22,listed,0.0,0.0
-rZ7HnEZ1AfPekd,Gay Ole Opry Presents: Lilith Feral 2-SHOW-PASS,Other,Nashville,The Basement,,,2026-08-11 21:07:07+00:00,2026-07-15 14:00:00+00:00,27.22,27.22,USD,-27.296608796296297,27.22,listed,0.0,0.0
-rZ7HnEZ1AfPekd,Gay Ole Opry Presents: Lilith Feral 2-SHOW-PASS,Other,Nashville,The Basement,,,2026-08-11 21:07:50+00:00,2026-07-15 14:00:00+00:00,27.22,27.22,USD,-27.29710648148148,27.22,listed,0.0,0.0
-rZ7HnEZ1AfPgZN,Leedz Edutainment And Smokehouse Media Present: EXITFAME & Friends Vol.2,Hip-Hop/Rap,Cambridge,Sonia,,,2026-08-11 21:07:50+00:00,2026-08-14 23:00:00+00:00,18.8,18.8,USD,3.0778935185185183,18.8,listed,,
-rZ7HnEZ1AfPsoN,The FarGos,Alternative,Cambridge,Middle East - Zuzu,,,2026-08-09 21:20:33+00:00,2026-08-09 21:00:00+00:00,,,,-0.014270833333333333,,not_listed,,
-rZ7HnEZ1AfPvod,Agalloch with Barren Heir and John Haughm (solo),Metal,Chicago,Thalia Hall,,,2026-08-11 21:07:50+00:00,2026-08-13 00:30:00+00:00,46.39,66.63,USD,1.1403935185185186,56.51,listed,,
-rZ7HnEZ1AfZU_7,$5 Thursdays!,World,Denver,La Rumba,,,2026-08-11 21:07:07+00:00,2026-08-14 02:00:00+00:00,8.73,8.73,USD,2.2033912037037036,8.73,listed,,
-rZ7HnEZ1AfZU_7,$5 Thursdays!,World,Denver,La Rumba,,,2026-08-11 21:07:50+00:00,2026-08-14 02:00:00+00:00,8.73,8.73,USD,2.2028935185185183,8.73,listed,0.0,0.0
-rZ7HnEZ1AfZp_V,Saranac Thursdays: Be Kind and Rewind: Ultimate 90's Experience,Pop,Old Forge,Outer Space Old Forge,,,2026-08-11 21:07:50+00:00,2026-08-13 22:00:00+00:00,11.55,11.55,USD,2.036226851851852,11.55,listed,,
-rZ7HnEZ1Afa7b7,FYE Ultraclub Presents: Jessica Brankka,Dance/Electronic,Toronto,FYE Ultra Club,,,2026-08-09 21:20:33+00:00,2026-08-09 02:00:00+00:00,29.83,35.62,CAD,-0.8059375,32.724999999999994,listed,,
-rZ7HnEZ1Afa8P7,Bog Brothers,Folk,Syracuse,Funk 'n Waffles,,,2026-08-11 01:41:44+00:00,2026-08-10 23:30:00+00:00,13.07,13.07,USD,-0.09148148148148148,13.07,listed,,
-rZ7HnEZ1Afa8P7,Bog Brothers,Folk,Syracuse,Funk 'n Waffles,,,2026-08-11 01:56:39+00:00,2026-08-10 23:30:00+00:00,13.07,13.07,USD,-0.10184027777777778,13.07,listed,0.0,0.0
-rZ7HnEZ1AfaAx7,"Alden Booking Presents: The Collective Collapse Tour featuring: Collective Dust, Coraline’s Collapse, One For Sorrow and Capo",Other,Rutherford,Williams Center - CUG Cantina - Rutherford,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,13.63,13.63,USD,0.9189930555555555,13.63,listed,,
-rZ7HnEZ1AfaAx7,"Alden Booking Presents: The Collective Collapse Tour featuring: Collective Dust, Coraline’s Collapse, One For Sorrow and Capo",Other,Rutherford,Williams Center - CUG Cantina - Rutherford,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,13.63,13.63,USD,0.11956018518518519,13.63,listed,0.0,0.0
-rZ7HnEZ1AfaE00,"Retained Surgical Instrument, Pariah,Gnarcoossee, and Nocturnal Dawn",Metal,Winter Park,Conduit,,,2026-08-11 21:07:07+00:00,2026-08-12 23:00:00+00:00,19.9,19.9,USD,1.0783912037037038,19.9,listed,,
-rZ7HnEZ1AfaE00,"Retained Surgical Instrument, Pariah,Gnarcoossee, and Nocturnal Dawn",Metal,Winter Park,Conduit,,,2026-08-11 21:07:50+00:00,2026-08-12 23:00:00+00:00,19.9,19.9,USD,1.0778935185185186,19.9,listed,0.0,0.0
-rZ7HnEZ1AfaEJ7,Jason Maksymilian & Friends,Alternative,New York,Berlin,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,17.69,17.69,USD,0.9189930555555555,17.69,listed,,
-rZ7HnEZ1AfaEJ7,Jason Maksymilian & Friends,Alternative,New York,Berlin,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,17.69,17.69,USD,0.11956018518518519,17.69,listed,0.0,0.0
-rZ7HnEZ1AfaFrf,Square Dancing with Boondoggle,Country,Portland,Showdown Saloon,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,13.86,13.86,USD,0.012685185185185185,13.86,listed,,
-rZ7HnEZ1AfaFrf,Square Dancing with Boondoggle,Country,Portland,Showdown Saloon,,,2026-08-11 01:56:39+00:00,2026-08-11 02:00:00+00:00,13.86,13.86,USD,0.0023263888888888887,13.86,listed,0.0,0.0
-rZ7HnEZ1AfaKf0,Whiskey Wednesday with Special Guest Golden Promise with Sam Tippett Band,Country,Portland,Showdown Saloon,,,2026-08-11 21:07:50+00:00,2026-08-13 03:30:00+00:00,15.92,15.92,USD,1.2653935185185186,15.92,listed,,
-rZ7HnEZ1AfaKo0,Two-Step Tuesday with Shorty & the Mustangs and Dance Lessons with Peggy,Country,Portland,Showdown Saloon,,,2026-08-11 21:07:07+00:00,2026-08-12 02:30:00+00:00,13.86,13.86,USD,0.22422453703703704,13.86,listed,,
-rZ7HnEZ1AfaKo0,Two-Step Tuesday with Shorty & the Mustangs and Dance Lessons with Peggy,Country,Portland,Showdown Saloon,,,2026-08-11 21:07:50+00:00,2026-08-12 02:30:00+00:00,13.86,13.86,USD,0.22372685185185184,13.86,listed,0.0,0.0
-rZ7HnEZ1AfaPCf,Agalloch,Metal,Providence,Fete Music Hall,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,38.98,38.98,USD,2.1195601851851853,38.98,listed,,
-rZ7HnEZ1AfaPk7,FIESTA DE PUTXS,Dance/Electronic,Seattle,Chop Suey,,,2026-08-11 21:07:50+00:00,2026-08-14 04:00:00+00:00,13.42,111.0,USD,2.286226851851852,62.21,listed,,
-rZ7HnEZ1AfaVGf,CHRIS O'LEARY BAND,Blues,Portland,Jack London Revue,,,2026-08-11 21:07:07+00:00,2026-08-12 03:00:00+00:00,26.24,26.24,USD,0.24505787037037038,26.24,listed,,
-rZ7HnEZ1AfaVGf,CHRIS O'LEARY BAND,Blues,Portland,Jack London Revue,,,2026-08-11 21:07:50+00:00,2026-08-12 03:00:00+00:00,26.24,26.24,USD,0.24456018518518519,26.24,listed,0.0,0.0
-rZ7HnEZ1AfaZp7,Taylor Gang and Club Cafe Present: Fedd The God w/ NASH.V.ILL,Hip-Hop/Rap,Pittsburgh,Club Cafe,,,2026-08-11 21:07:07+00:00,2026-08-14 00:00:00+00:00,18.48,18.48,USD,2.1200578703703705,18.48,listed,,
-rZ7HnEZ1AfaZp7,Taylor Gang and Club Cafe Present: Fedd The God w/ NASH.V.ILL,Hip-Hop/Rap,Pittsburgh,Club Cafe,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,18.48,18.48,USD,2.1195601851851853,18.48,listed,0.0,0.0
-rZ7HnEZ1Afa_F0,"Blue Monday with Kevin McKendree, George Sluppick, Steve Mackey & Yates McKendree",Other,Nashville,The Bluebird Cafe,,,2026-08-11 01:56:39+00:00,2026-08-11 02:00:00+00:00,27.63,27.63,USD,0.0023263888888888887,27.63,listed,,
-rZ7HnEZ1Afa_aV,"NSAI Performance Series presented by Bank of America: In The Round with JT Harding, Marv Green & Frank Ray",Other,Nashville,The Bluebird Cafe,,,2026-08-11 01:56:39+00:00,2026-08-11 23:00:00+00:00,21.49,21.49,USD,0.8773263888888889,21.49,listed,,
-rZ7HnEZ1Afa_aV,"NSAI Performance Series presented by Bank of America: In The Round with JT Harding, Marv Green & Frank Ray",Other,Nashville,The Bluebird Cafe,,,2026-08-11 21:07:07+00:00,2026-08-11 23:00:00+00:00,21.49,21.49,USD,0.0783912037037037,21.49,listed,0.0,0.0
-rZ7HnEZ1Afa_aV,"NSAI Performance Series presented by Bank of America: In The Round with JT Harding, Marv Green & Frank Ray",Other,Nashville,The Bluebird Cafe,,,2026-08-11 21:07:50+00:00,2026-08-11 23:00:00+00:00,21.49,21.49,USD,0.07789351851851851,21.49,listed,0.0,0.0
-rZ7HnEZ1Afad17,"Dogma Society, Nautics",Alternative,Dallas,Three Links Deep Ellum,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,24.52,28.61,USD,0.9189930555555555,26.564999999999998,listed,,
-rZ7HnEZ1Afad17,"Dogma Society, Nautics",Alternative,Dallas,Three Links Deep Ellum,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,28.61,28.61,USD,0.11956018518518519,28.61,listed,2.0450000000000017,0.07698099002446845
-rZ7HnEZ1Afad1f,(PRE-SALE): An Evening with Mary Gauthier,Folk,Nashville,The Bluebird Cafe,,,2026-08-11 21:07:50+00:00,2026-08-14 02:00:00+00:00,33.27,33.27,USD,2.2028935185185183,33.27,listed,,
-rZ7HnEZ1Afaeuf,Nathan Xander | Cat Casual & the Final Word | Phil Pickens,Folk,New York,Bowery Palace,,,2026-08-11 21:07:07+00:00,2026-08-12 23:30:00+00:00,12.44,12.44,USD,1.099224537037037,12.44,listed,,
-rZ7HnEZ1Afaeuf,Nathan Xander | Cat Casual & the Final Word | Phil Pickens,Folk,New York,Bowery Palace,,,2026-08-11 21:07:50+00:00,2026-08-12 23:30:00+00:00,12.44,12.44,USD,1.0987268518518518,12.44,listed,0.0,0.0
-rZ7HnEZ1AfagPV,"Samsara, Mentally Distrakted,  The Little Ditties, Wage Cage",Alternative,Cleveland Heights,Grog Shop,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,12.59,12.59,USD,0.11956018518518519,12.59,listed,,
-rZ7HnEZ1Afago7,Neal McCoy at The Grainery Live!,Country,Plain City,The Grainery ,,,2026-08-11 21:07:50+00:00,2026-08-13 22:00:00+00:00,45.49,369.94,USD,2.036226851851852,207.715,listed,,
-rZ7HnEZ1Afak87,Lucky Horse Red / Sports Boyfriend / Pebbles Inc,Other,Chicago,Empty Bottle,,,2026-08-11 21:07:50+00:00,2026-08-12 02:00:00+00:00,16.17,16.17,USD,0.20289351851851853,16.17,listed,,
-rZ7HnEZ1Afakb0,"PRE-SALE: In The Round with Ingrid Andress, Emily Weisband, Seth Ennis & Lauren Hungate",Country,Nashville,The Bluebird Cafe,,,2026-08-11 21:07:50+00:00,2026-08-13 02:00:00+00:00,33.27,33.27,USD,1.2028935185185186,33.27,listed,,
-rZ7HnEZ1Afap77,The Tino Kayafas Jazz Trio,Jazz,Pittsburgh,Club Cafe,,,2026-08-11 21:07:50+00:00,2026-08-12 22:30:00+00:00,18.48,18.48,USD,1.057060185185185,18.48,listed,,
-rZ7HnEZ1AfapF0,Happy Hour w/ Wheeler Creek at Woodlands Tavern,Other,Columbus,Woodlands Tavern,,,2026-08-11 21:07:50+00:00,2026-08-12 22:00:00+00:00,1.5,1.5,USD,1.0362268518518518,1.5,listed,,
-rZ7HnEZ1AfapO0,OMEGA X 2026 TOUR: NO LIMIT in [Miami],Pop,Miami Shores,Miami Theater Center,,,2026-08-11 21:07:50+00:00,2026-08-13 23:00:00+00:00,25.23,87.79,USD,2.0778935185185183,56.510000000000005,listed,,
-rZ7HnEZ1Afasq0,"Glass Mansions,  Night Medicine, Sailem, Calamansi",Alternative,New Orleans,Gasa Gasa,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,12.05,12.05,USD,0.012685185185185185,12.05,listed,,
-rZ7HnEZ1Afasq0,"Glass Mansions,  Night Medicine, Sailem, Calamansi",Alternative,New Orleans,Gasa Gasa,,,2026-08-11 01:56:39+00:00,2026-08-11 02:00:00+00:00,12.05,12.05,USD,0.0023263888888888887,12.05,listed,0.0,0.0
-rZ7HnEZ1AfavqV,TeethTeam,Hip-Hop/Rap,Columbus,Classics Victorys,,,2026-08-11 21:07:07+00:00,2026-08-14 00:00:00+00:00,18.5,18.5,USD,2.1200578703703705,18.5,listed,,
-rZ7HnEZ1AfavqV,TeethTeam,Hip-Hop/Rap,Columbus,Classics Victorys,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,18.5,18.5,USD,2.1195601851851853,18.5,listed,0.0,0.0
-rZ7HnEZ1Afaw37,OVERTIME: The Modern Day Outlaw Tour in Joliet,Hip-Hop/Rap,Joliet,The Forge,,,2026-08-11 21:07:50+00:00,2026-08-14 00:30:00+00:00,24.73,115.1,USD,2.1403935185185183,69.91499999999999,listed,,
-rZ7HnEZ1Afb0Od,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Fort Myers, FL",Religious,Fort Myers,First Assembly of God,,,2026-08-11 21:07:07+00:00,2026-08-13 23:00:00+00:00,20.0,93.02,USD,2.0783912037037036,56.51,listed,,
-rZ7HnEZ1Afb0Od,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Fort Myers, FL",Religious,Fort Myers,First Assembly of God,,,2026-08-11 21:07:50+00:00,2026-08-13 23:00:00+00:00,20.0,93.02,USD,2.0778935185185183,56.51,listed,0.0,0.0
-rZ7HnEZ1Afb0jK,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Warner Robins, GA",Religious,Warner Robins,Second Baptist Church,,,2026-08-11 21:07:50+00:00,2026-08-14 23:00:00+00:00,33.6,93.02,USD,3.0778935185185183,63.31,listed,,
-rZ7HnEZ1Afb0qd,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Ormond Beach, FL",Religious,Ormond Beach,Calvary - Ormond Beach,,,2026-08-11 01:41:44+00:00,2026-08-11 23:00:00+00:00,20.0,116.45,USD,0.8876851851851851,68.225,listed,,
-rZ7HnEZ1Afb0qd,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Ormond Beach, FL",Religious,Ormond Beach,Calvary - Ormond Beach,,,2026-08-11 01:56:39+00:00,2026-08-11 23:00:00+00:00,20.0,116.45,USD,0.8773263888888889,68.225,listed,0.0,0.0
-rZ7HnEZ1Afb0qd,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Ormond Beach, FL",Religious,Ormond Beach,Calvary - Ormond Beach,,,2026-08-11 21:07:07+00:00,2026-08-11 23:00:00+00:00,20.0,116.45,USD,0.0783912037037037,68.225,listed,0.0,0.0
-rZ7HnEZ1Afb0qd,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Ormond Beach, FL",Religious,Ormond Beach,Calvary - Ormond Beach,,,2026-08-11 21:07:50+00:00,2026-08-11 23:00:00+00:00,20.0,116.45,USD,0.07789351851851851,68.225,listed,0.0,0.0
-rZ7HnEZ1AfjOFN,BLUE FRIDAY SPECIAL! Entry to All Shows at the Blue Moon for 2026!,World,Lafayette,Blue Moon Saloon,,,2026-08-09 21:20:33+00:00,2026-01-01 18:00:00+00:00,105.97,105.97,USD,-220.13927083333334,105.97,listed,,
-rZ7HnEZ1AfjOFN,BLUE FRIDAY SPECIAL! Entry to All Shows at the Blue Moon for 2026!,World,Lafayette,Blue Moon Saloon,,,2026-08-11 01:41:44+00:00,2026-01-01 18:00:00+00:00,105.97,105.97,USD,-221.32064814814814,105.97,listed,0.0,0.0
-rZ7HnEZ1AfjOFN,BLUE FRIDAY SPECIAL! Entry to All Shows at the Blue Moon for 2026!,World,Lafayette,Blue Moon Saloon,,,2026-08-11 01:56:39+00:00,2026-01-01 18:00:00+00:00,105.97,105.97,USD,-221.33100694444445,105.97,listed,0.0,0.0
-rZ7HnEZ1AfjOFN,BLUE FRIDAY SPECIAL! Entry to All Shows at the Blue Moon for 2026!,World,Lafayette,Blue Moon Saloon,,,2026-08-11 21:07:07+00:00,2026-01-01 18:00:00+00:00,105.97,105.97,USD,-222.12994212962963,105.97,listed,0.0,0.0
-rZ7HnEZ1AfjOFN,BLUE FRIDAY SPECIAL! Entry to All Shows at the Blue Moon for 2026!,World,Lafayette,Blue Moon Saloon,,,2026-08-11 21:07:50+00:00,2026-01-01 18:00:00+00:00,105.97,105.97,USD,-222.13043981481482,105.97,listed,0.0,0.0
-rZ7HnEZ1AfjOGS,I'm On the List! + 1 (Entry to all shows at the Blue Moon in 2026 for you and a guest and your first drink is on us!),World,Lafayette,Blue Moon Saloon,,,2026-08-11 01:41:44+00:00,2026-01-01 18:00:00+00:00,208.97,208.97,USD,-221.32064814814814,208.97,listed,,
-rZ7HnEZ1AfjOGS,I'm On the List! + 1 (Entry to all shows at the Blue Moon in 2026 for you and a guest and your first drink is on us!),World,Lafayette,Blue Moon Saloon,,,2026-08-11 01:56:39+00:00,2026-01-01 18:00:00+00:00,208.97,208.97,USD,-221.33100694444445,208.97,listed,0.0,0.0
-rZ7HnEZ1AfjOGS,I'm On the List! + 1 (Entry to all shows at the Blue Moon in 2026 for you and a guest and your first drink is on us!),World,Lafayette,Blue Moon Saloon,,,2026-08-11 21:07:07+00:00,2026-01-01 18:00:00+00:00,208.97,208.97,USD,-222.12994212962963,208.97,listed,0.0,0.0
-rZ7HnEZ1AfjOGS,I'm On the List! + 1 (Entry to all shows at the Blue Moon in 2026 for you and a guest and your first drink is on us!),World,Lafayette,Blue Moon Saloon,,,2026-08-11 21:07:50+00:00,2026-01-01 18:00:00+00:00,208.97,208.97,USD,-222.13043981481482,208.97,listed,0.0,0.0
-rZ7HnEZ1AfjzON,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:07+00:00,2026-08-14 16:00:00+00:00,23.85,27.85,USD,2.786724537037037,25.85,listed,,
-rZ7HnEZ1AfjzON,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:50+00:00,2026-08-14 16:00:00+00:00,23.85,27.85,USD,2.786226851851852,25.85,listed,0.0,0.0
-rZ7HnEZ1AfjzOd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:50+00:00,2026-08-14 18:00:00+00:00,23.85,27.85,USD,2.8695601851851853,25.85,listed,,
-rZ7HnEZ1AfjzQd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:07+00:00,2026-08-14 15:00:00+00:00,23.85,27.85,USD,2.7450578703703705,25.85,listed,,
-rZ7HnEZ1AfjzQd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:50+00:00,2026-08-14 15:00:00+00:00,23.85,27.85,USD,2.7445601851851853,25.85,listed,0.0,0.0
-rZ7HnEZ1Afjz_N,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:07+00:00,2026-08-14 14:00:00+00:00,23.85,27.85,USD,2.7033912037037036,25.85,listed,,
-rZ7HnEZ1Afjz_N,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:50+00:00,2026-08-14 14:00:00+00:00,23.85,27.85,USD,2.7028935185185183,25.85,listed,0.0,0.0
-rZ7HnEZ1Afjz_S,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:50+00:00,2026-08-14 19:00:00+00:00,23.85,27.85,USD,2.911226851851852,25.85,listed,,
-rZ7HnEZ1Afjzqd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:07+00:00,2026-08-14 17:00:00+00:00,23.85,27.85,USD,2.8283912037037036,25.85,listed,,
-rZ7HnEZ1Afjzqd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:07:50+00:00,2026-08-14 17:00:00+00:00,23.85,27.85,USD,2.8278935185185183,25.85,listed,0.0,0.0
-rZ7HnEZ1Afk3b0,FREE SHOW: QUEEN SERENE / SUGAR WORLD / UNZIPPED,Alternative,Palmdale,Transplants Brewing Company,,,2026-08-11 01:41:44+00:00,2026-08-11 02:00:00+00:00,0.0,0.0,USD,0.012685185185185185,0.0,free_or_no_charge,,
-rZ7HnEZ1Afk__7,Abbie Roper | Grumpy Plum | Dizzy & The Drapes | Deanna Valentine,Other,New York,Bowery Palace,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,12.44,12.44,USD,0.8981597222222222,12.44,listed,,
-rZ7HnEZ1Afk__7,Abbie Roper | Grumpy Plum | Dizzy & The Drapes | Deanna Valentine,Other,New York,Bowery Palace,,,2026-08-11 21:07:07+00:00,2026-08-11 23:30:00+00:00,12.44,12.44,USD,0.09922453703703704,12.44,listed,0.0,0.0
-rZ7HnEZ1Afk__7,Abbie Roper | Grumpy Plum | Dizzy & The Drapes | Deanna Valentine,Other,New York,Bowery Palace,,,2026-08-11 21:07:50+00:00,2026-08-11 23:30:00+00:00,12.44,12.44,USD,0.09872685185185186,12.44,listed,0.0,0.0
-rZ7HnEZ1AfkbuV,GABE STILLMAN plays FITZGERALDS NIGHTCLUB!,Blues,Berwyn,FITZGERALDS NIGHTCLUB,,,2026-08-11 21:07:07+00:00,2026-08-13 01:30:00+00:00,24.38,158.8,USD,1.1825578703703703,91.59,listed,,
-rZ7HnEZ1AfkbuV,GABE STILLMAN plays FITZGERALDS NIGHTCLUB!,Blues,Berwyn,FITZGERALDS NIGHTCLUB,,,2026-08-11 21:07:50+00:00,2026-08-13 01:30:00+00:00,24.38,158.8,USD,1.182060185185185,91.59,listed,0.0,0.0
-rZ7HnEZ1AfkdC7,The Cold Stares,Rock,New York,Iridium,,,2026-08-11 21:07:50+00:00,2026-08-12 00:30:00+00:00,32.78,38.62,USD,0.14039351851851853,35.7,listed,,
-rZ7HnEZ1Afq40N,The Ex-Faces,Metal,Hobart,Hobart Art Theatre,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,30.86,205.84,USD,0.8981597222222222,118.35,listed,,
-rZ7HnEZ1Afq9oN,Larry McCray,Jazz,Pawling,Daryl's House,,,2026-08-11 21:07:50+00:00,2026-08-12 23:00:00+00:00,28.69,40.02,USD,1.0778935185185186,34.355000000000004,listed,,
-rZ7HnEZ1AfqOoS,Fink,Folk,Evanston,SPACE,,,2026-08-11 21:07:07+00:00,2026-08-13 00:30:00+00:00,33.9,47.17,USD,1.1408912037037038,40.535,listed,,
-rZ7HnEZ1AfqOoS,Fink,Folk,Evanston,SPACE,,,2026-08-11 21:07:50+00:00,2026-08-13 00:30:00+00:00,33.9,47.17,USD,1.1403935185185186,40.535,listed,0.0,0.0
-rZ7HnEZ1AfqUuK,Cruz Beckham and The Breakers,Other,Los Angeles,The Masonic Lodge at Hollywood Forever,,,2026-08-11 01:56:39+00:00,2026-08-11 03:00:00+00:00,18.52,38.78,USD,0.043993055555555556,28.65,listed,,
-rZ7HnEZ1Afqoud,THE EX-FACES,Metal,Lexington,Manchester Music Hall,,,2026-08-11 21:07:07+00:00,2026-08-13 00:00:00+00:00,34.47,170.72,USD,1.1200578703703703,102.595,listed,,
-rZ7HnEZ1Afqoud,THE EX-FACES,Metal,Lexington,Manchester Music Hall,,,2026-08-11 21:07:50+00:00,2026-08-13 00:00:00+00:00,34.47,170.72,USD,1.119560185185185,102.595,listed,0.0,0.0
-rZ7HnEZ1Afr3Zd,Rock Symphony w/ Terence Gowan of Styx,Classical,Toronto,Casa Loma,,,2026-08-11 01:41:44+00:00,2026-08-11 23:30:00+00:00,62.68,62.68,CAD,0.9085185185185185,62.68,listed,,
-rZ7HnEZ1Afr3Zd,Rock Symphony w/ Terence Gowan of Styx,Classical,Toronto,Casa Loma,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,62.68,62.68,CAD,0.8981597222222222,62.68,listed,0.0,0.0
-rZ7HnEZ1Afr7ZN,Lettuce Cook Tour,R&B,St. Louis,Atomic Pavilion,,,2026-08-11 21:07:50+00:00,2026-08-14 01:00:00+00:00,43.54,43.54,USD,2.161226851851852,43.54,listed,,
-rZ7HnEZ1AfrK-K,(((folkYEAH))) Presents: JOHN-ROBERT,Pop,Santa Cruz,The Crepe Place,,,2026-08-11 21:07:50+00:00,2026-08-13 03:00:00+00:00,23.6,23.6,USD,1.244560185185185,23.6,listed,,
-rZ7HnEZ1AfrZjK,Jammy Buffet: Lakes Below The Mountains Tour,Rock,Newport,The Southgate House Revival - Sanctuary,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.9189930555555555,21.43,listed,,
-rZ7HnEZ1AfrZjK,Jammy Buffet: Lakes Below The Mountains Tour,Rock,Newport,The Southgate House Revival - Sanctuary,,,2026-08-11 21:07:07+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.12005787037037037,21.43,listed,0.0,0.0
-rZ7HnEZ1AfrZjK,Jammy Buffet: Lakes Below The Mountains Tour,Rock,Newport,The Southgate House Revival - Sanctuary,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.11956018518518519,21.43,listed,0.0,0.0
-rZ7HnEZ1AfrbuS,Ally The Piper,Pop,Grand Rapids,The Pyramid Scheme,,,2026-08-11 21:07:07+00:00,2026-08-13 00:00:00+00:00,36.54,36.54,USD,1.1200578703703703,36.54,listed,,
-rZ7HnEZ1AfrbuS,Ally The Piper,Pop,Grand Rapids,The Pyramid Scheme,,,2026-08-11 21:07:50+00:00,2026-08-13 00:00:00+00:00,36.54,36.54,USD,1.119560185185185,36.54,listed,0.0,0.0
-rZ7HnEZ1Afro-d,Dizzy Gillespie All-Star Big Band,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 01:56:39+00:00,2026-08-12 00:00:00+00:00,38.1,54.99,USD,0.9189930555555555,46.545,listed,,
-rZ7HnEZ1Afro-d,Dizzy Gillespie All-Star Big Band,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 21:07:07+00:00,2026-08-12 00:00:00+00:00,38.1,54.99,USD,0.12005787037037037,46.545,listed,0.0,0.0
-rZ7HnEZ1Afro-d,Dizzy Gillespie All-Star Big Band,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 21:07:50+00:00,2026-08-12 00:00:00+00:00,38.1,54.99,USD,0.11956018518518519,46.545,listed,0.0,0.0
-rZ7HnEZ1Afroxd,Dizzy Gillespie All-Star Big Band,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 21:07:07+00:00,2026-08-12 02:30:00+00:00,38.1,54.99,USD,0.22422453703703704,46.545,listed,,
-rZ7HnEZ1Afroxd,Dizzy Gillespie All-Star Big Band,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 21:07:50+00:00,2026-08-12 02:30:00+00:00,38.1,54.99,USD,0.22372685185185184,46.545,listed,0.0,0.0
-rZ7HnEZ1Afv-Jf,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Phillipsburg,The Delaware River Railroad Excursions,,,2026-08-09 21:20:33+00:00,2026-08-09 14:00:00+00:00,21.85,39.85,USD,-0.3059375,30.85,listed,,
-rZ7HnEZ1Afv8o7,Vino Louden Blues Band/Nora Jean Wallace Blues Band,Blues,Chicago,Kingston Mines - Chicago Blues Center,,,2026-08-11 21:07:50+00:00,2026-08-15 00:00:00+00:00,23.0,23.0,USD,3.1195601851851853,23.0,listed,,
-rZ7HnEZ1AfvaaV,Nora Jean Wallace Blues Band/Rico McFarland Blues Band,Blues,Chicago,Kingston Mines - Chicago Blues Center,,,2026-08-09 21:20:33+00:00,2026-08-09 00:00:00+00:00,23.0,23.0,USD,-0.8892708333333333,23.0,listed,,
-rZ7HnEZ1Afvoj7,Mike Wheeler Blues Band/Funky Mojo Daddy Blues Band,Blues,Chicago,Kingston Mines - Chicago Blues Center,,,2026-08-11 21:07:07+00:00,2026-08-13 23:00:00+00:00,18.0,18.0,USD,2.0783912037037036,18.0,listed,,
-rZ7HnEZ1Afvoj7,Mike Wheeler Blues Band/Funky Mojo Daddy Blues Band,Blues,Chicago,Kingston Mines - Chicago Blues Center,,,2026-08-11 21:07:50+00:00,2026-08-13 23:00:00+00:00,18.0,18.0,USD,2.0778935185185183,18.0,listed,0.0,0.0
-rZ7HnEZ1Afx3OK,NIK PARR & The Selfless Lovers at FITZGERALDS Nightclub,R&B,Berwyn,FITZGERALDS NIGHTCLUB,,,2026-08-11 21:07:50+00:00,2026-08-14 01:30:00+00:00,24.38,158.8,USD,2.1820601851851853,91.59,listed,,
-rZ7HnEZ1AfxKfd,PORTUGAL. THE MAN,Alternative,Charleston,The Refinery,,,2026-08-11 01:56:39+00:00,2026-08-11 23:30:00+00:00,36.84,93.1,USD,0.8981597222222222,64.97,listed,,
-rZ7HnEZ1AfxKfd,PORTUGAL. THE MAN,Alternative,Charleston,The Refinery,,,2026-08-11 21:07:07+00:00,2026-08-11 23:30:00+00:00,42.25,93.1,USD,0.09922453703703704,67.675,listed,2.7049999999999983,0.04163460058488533
-rZ7HnEZ1AfxKfd,PORTUGAL. THE MAN,Alternative,Charleston,The Refinery,,,2026-08-11 21:07:50+00:00,2026-08-11 23:30:00+00:00,42.25,93.1,USD,0.09872685185185186,67.675,listed,0.0,0.0
-rZ7HnEZ1AfxZvN,"Fudge, Nolo, Midnight Beverage",Dance/Electronic,Dallas,Three Links Deep Ellum,,,2026-08-11 21:07:07+00:00,2026-08-14 00:00:00+00:00,22.3,22.3,USD,2.1200578703703705,22.3,listed,,
-rZ7HnEZ1AfxZvN,"Fudge, Nolo, Midnight Beverage",Dance/Electronic,Dallas,Three Links Deep Ellum,,,2026-08-11 21:07:50+00:00,2026-08-14 00:00:00+00:00,22.3,22.3,USD,2.1195601851851853,22.3,listed,0.0,0.0
-vv1AAZkoVGkdChhS3,The Princess Proms Concert,Children's Music,Akron,Akron Civic Theatre,,,2026-08-09 21:20:33+00:00,2026-08-09 19:30:00+00:00,,,,-0.07677083333333333,,not_listed,,
-vv1AFZkugGkeXfMF9,2026 Jazzy Nights Season Pass,Jazz,Detroit,The Aretha Franklin Amphitheatre,,,2026-08-09 21:20:33+00:00,2026-06-10 23:30:00+00:00,,,,-59.91010416666666,,not_listed,,
-vv1AFZkugGkeXfMF9,2026 Jazzy Nights Season Pass,Jazz,Detroit,The Aretha Franklin Amphitheatre,,,2026-08-11 01:41:44+00:00,2026-06-10 23:30:00+00:00,,,,-61.09148148148148,,not_listed,,
-vv1AOv00_GA1ZlXL,Praise Under The Stars w/ Tasha Cobbs-Leonard & Chandler Moore,Religious,Philadelphia,Dell Music Center,,,2026-08-11 01:41:44+00:00,2026-08-11 23:00:00+00:00,,,,0.8876851851851851,,not_listed,,
-vv1AkZkozGkex81OL,Rock & Roots Series: 3 Concert Package Event,Folk,Dubuque,Five Flags Center,,,2026-08-09 21:20:33+00:00,2026-07-11 00:30:00+00:00,,,,-29.8684375,,not_listed,,
-vv1AkZkozGkex81OL,Rock & Roots Series: 3 Concert Package Event,Folk,Dubuque,Five Flags Center,,,2026-08-11 01:41:44+00:00,2026-07-11 00:30:00+00:00,,,,-31.049814814814816,,not_listed,,
-vv1FvOv0C83vZ7Cvu2,"90s Country Gold Series: Kathy Mattea, Collin Raye, & Pam Tillis",Country,Dubuque,Five Flags Center,,,2026-08-09 21:20:33+00:00,2026-06-21 00:30:00+00:00,,,,-49.8684375,,not_listed,,
-vv1FvOv0C83vZ7Cvu2,"90s Country Gold Series: Kathy Mattea, Collin Raye, & Pam Tillis",Country,Dubuque,Five Flags Center,,,2026-08-11 01:41:44+00:00,2026-06-21 00:30:00+00:00,,,,-51.049814814814816,,not_listed,,
-vvG10Z_G6dw5z0,Lil Rob & Friends,Hip-Hop/Rap,Los Angeles,The Regent Theater,,,2026-08-09 21:20:33+00:00,2026-07-11 04:00:00+00:00,,,,-29.722604166666667,,not_listed,,
-vvG1HZ_6lbW5jz,Yeat: The LOVE/LYFE Tour,Hip-Hop/Rap,Seattle,WAMU Theater,,,2026-08-11 01:41:44+00:00,2026-08-11 02:30:00+00:00,,,,0.03351851851851852,,not_listed,,
+rZ7HnEZ1A4Z-4K,Sadhu & Friends,Hip-Hop/Rap,Cleveland Heights,B Side Lounge,,,2026-08-11 21:54:17+00:00,2026-08-15 00:00:00+00:00,12.59,15.16,USD,3.0873032407407406,13.875,listed,,
+rZ7HnEZ1A4Z38d,Bye Bye Buenos: The Undertaking with special guests,Metal,San Diego,Brick By Brick,,,2026-08-11 21:54:17+00:00,2026-08-14 01:30:00+00:00,20.63,26.28,USD,2.1498032407407406,23.455,listed,,
+rZ7HnEZ1A4Z87N,Boots at the Brewery | Line Dancing,Country,Syracuse,Middle Ages Music Hall,,,2026-08-11 21:54:17+00:00,2026-08-12 23:00:00+00:00,12.88,12.88,USD,1.045636574074074,12.88,listed,,
+rZ7HnEZ1A4ZZed,Frank Bang,Blues,Westland,downstairs at Joy Manor,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,24.38,24.38,USD,2.0873032407407406,24.38,listed,,
+rZ7HnEZ1A4Zx-N,"Hot Mic! Every 2nd Tuesday at The Nick, doors 7pm",Alternative,Birmingham,The Nick,,,2026-08-11 21:54:17+00:00,2026-08-12 01:00:00+00:00,8.72,8.72,USD,0.1289699074074074,8.72,listed,,
+rZ7HnEZ1A4Zx-d,Super Funny Karaoke,R&B,Tacoma,Nate Jackson's Super Funny Comedy Club,,,2026-08-11 21:54:17+00:00,2026-08-12 02:00:00+00:00,7.22,7.22,USD,0.17063657407407407,7.22,listed,,
+rZ7HnEZ1Af-00d,Vince Giordano and the Nighthawks,Rock,New York,Birdland Theater,,,2026-08-11 21:54:17+00:00,2026-08-12 00:30:00+00:00,24.91,45.76,USD,0.10813657407407408,35.335,listed,,
+rZ7HnEZ1Af-0Cd,Monty Alexander,Jazz,New York,Birdland Jazz Club,,,2026-08-11 21:54:17+00:00,2026-08-12 23:00:00+00:00,45.76,56.06,USD,1.045636574074074,50.91,listed,,
+rZ7HnEZ1Af-0uK,Monty Alexander,Jazz,New York,Birdland Jazz Club,,,2026-08-11 21:54:17+00:00,2026-08-12 01:30:00+00:00,45.76,56.06,USD,0.14980324074074075,50.91,listed,,
+rZ7HnEZ1Af-8vS,Chris Smither,Pop,Evanston,SPACE,,,2026-08-11 21:54:17+00:00,2026-08-14 01:00:00+00:00,27.27,53.81,USD,2.1289699074074075,40.54,listed,,
+rZ7HnEZ1Af-EPK,The High Society New Orleans Jazz Band,Folk,New York,Birdland Theater,,,2026-08-11 21:54:17+00:00,2026-08-13 21:30:00+00:00,35.46,45.76,USD,1.983136574074074,40.61,listed,,
+rZ7HnEZ1Af-EPd,The High Society New Orleans Jazz Band,Folk,New York,Birdland Theater,,,2026-08-11 21:54:17+00:00,2026-08-14 00:30:00+00:00,35.46,45.76,USD,2.108136574074074,40.61,listed,,
+rZ7HnEZ1Af-Pvd,David Ostwald's Louis Armstrong Eternity Band,Jazz,New York,Birdland Theater,,,2026-08-11 21:54:17+00:00,2026-08-12 21:30:00+00:00,35.46,45.76,USD,0.9831365740740741,40.61,listed,,
+rZ7HnEZ1Af-YOK,Kill Bill: The Rapper - I FOUND THE END Tour,Hip-Hop/Rap,Syracuse,The Song & Dance,,,2026-08-11 21:54:17+00:00,2026-08-11 23:30:00+00:00,31.59,31.59,USD,0.06646990740740741,31.59,listed,,
+rZ7HnEZ1Af-Yfd,"Easy Honey, Margot Sinclair",Alternative,Philadelphia,Nikki Lopez Philly,,,2026-08-11 21:54:17+00:00,2026-08-11 23:00:00+00:00,19.49,19.49,USD,0.04563657407407407,19.49,listed,,
+rZ7HnEZ1Af0-0d,Line Dance Lessons at Diamondback Music Hall,Undefined,Belleville,Diamondback Music Hall,,,2026-08-11 21:54:17+00:00,2026-08-12 23:00:00+00:00,11.8,19.51,USD,1.045636574074074,15.655000000000001,listed,,
+rZ7HnEZ1Af00oK,Dale Watson,Country,Evanston,SPACE,,,2026-08-11 21:54:17+00:00,2026-08-12 00:30:00+00:00,33.9,53.81,USD,0.10813657407407408,43.855000000000004,listed,,
+rZ7HnEZ1Af090S,Josh Tatofi w/ Abby Anderson & Kala'e & Kalena,R&B,Nashville,The Basement East,,,2026-08-11 21:54:17+00:00,2026-08-14 01:00:00+00:00,39.41,74.43,USD,2.1289699074074075,56.92,listed,,
+rZ7HnEZ1Af0YFN,Nonpoint,Alternative,Lexington,Manchester Music Hall,,,2026-08-11 21:54:17+00:00,2026-08-11 23:30:00+00:00,45.37,143.47,USD,0.06646990740740741,94.42,listed,,
+rZ7HnEZ1Af0Yod,Geena Fontanella w/ David Michael Frank & Attaboy,Pop,Columbus,Rumba Cafe,,,2026-08-11 21:54:17+00:00,2026-08-11 23:30:00+00:00,26.0,114.95,USD,0.06646990740740741,70.475,listed,,
+rZ7HnEZ1Af0ZGN,Jed Harrerlson with Them Ol Ghosts,Blues,Baton Rouge,Chelsea’s Live,,,2026-08-11 21:54:17+00:00,2026-08-14 01:00:00+00:00,25.94,57.34,USD,2.1289699074074075,41.64,listed,,
+rZ7HnEZ1Af0xOK,April and The Funk Junkies,Dance/Electronic,Solana Beach,Belly Up,,,2026-08-11 21:54:17+00:00,2026-08-15 00:30:00+00:00,12.8,25.3,USD,3.108136574074074,19.05,listed,,
+rZ7HnEZ1AfA3-V,Ladies Night 2026,Country,Aurora,Stampede,,,2026-08-11 21:54:17+00:00,2026-08-13 00:00:00+00:00,16.56,16.56,USD,1.0873032407407408,16.56,listed,,
+rZ7HnEZ1AfA8x7,Overtime,Hip-Hop/Rap,Joliet,The Forge,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,17.05,117.75,USD,2.0873032407407406,67.4,listed,,
+rZ7HnEZ1AfF-Z7,"Still Rings, Me At Night, Olive Bernard",Alternative,New York,Night Club 101,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,20.01,20.01,USD,0.08730324074074074,20.01,listed,,
+rZ7HnEZ1AfF-_f,"Cottage Corpse, I-90 Fiasco & Athleisure",Rock,Seattle,Tractor,,,2026-08-11 21:54:17+00:00,2026-08-12 02:30:00+00:00,16.42,16.42,USD,0.1914699074074074,16.42,listed,,
+rZ7HnEZ1AfF300,"LITTLE MOON , Bly Wallentine",Pop,Boise,Neurolux Lounge,,,2026-08-11 21:54:17+00:00,2026-08-12 02:00:00+00:00,18.63,18.63,USD,0.17063657407407407,18.63,listed,,
+rZ7HnEZ1AfF4Qf,Thursday Night Death Metal w/ Mutilation Barbecue / Inoculation / Casket Splinter / Fucked 2 Death / 1000x Saliva,Metal,Cleveland Heights,Grog Shop,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,19.51,19.51,USD,2.0873032407407406,19.51,listed,,
+rZ7HnEZ1AfFAJ7,JEFFREY NOTHING (Co-founding singer of Mushroomhead) • Dizasterpiece • Sons Of The Pyre,Metal,Westland,The Token Lounge,,,2026-08-11 21:54:17+00:00,2026-08-11 22:00:00+00:00,24.38,24.38,USD,0.003969907407407407,24.38,listed,,
+rZ7HnEZ1AfF_G0,Murphys Law Jimmys Birthday Cruise!,Other,New York,ROCKS OFF Concert Cruise Series,,,2026-08-11 21:54:17+00:00,2026-08-12 23:00:00+00:00,49.06,49.06,USD,1.045636574074074,49.06,listed,,
+rZ7HnEZ1AfFdf0,"One Night Live Presents Frail Talk, Anna Applegate",Rock,Newport,The Southgate House Revival - Revival Room,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.08730324074074074,21.43,listed,,
+rZ7HnEZ1AfFe1f,Mutlu,R&B,Nashville,The Basement,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,12.85,12.85,USD,2.0873032407407406,12.85,listed,,
+rZ7HnEZ1AfFe7V,Gallant,R&B,San Diego,SOMA - Sidestage,,,2026-08-11 21:54:17+00:00,2026-08-13 03:00:00+00:00,34.31,34.31,USD,1.2123032407407408,34.31,listed,,
+rZ7HnEZ1AfFoQ7,"Ani DiFranco, Wryn",Folk,Solana Beach,Belly Up,,,2026-08-11 21:54:17+00:00,2026-08-12 03:00:00+00:00,59.8,59.8,USD,0.21230324074074075,59.8,listed,,
+rZ7HnEZ1AfFt07,Lyrical Rhythms,R&B,Cleveland Heights,B Side Lounge,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,6.67,6.67,USD,0.08730324074074074,6.67,listed,,
+rZ7HnEZ1AfFz80,"Lesser Birds, The Collect Pond, Good Karma, Plastic Actors",Rock,Cambridge,Middle East - Upstairs,,,2026-08-11 21:54:17+00:00,2026-08-11 23:00:00+00:00,20.34,20.34,USD,0.04563657407407407,20.34,listed,,
+rZ7HnEZ1AfJA3K,Angela Easley,Blues,Biloxi,Ground Zero Blues Club Biloxi,,,2026-08-11 21:54:17+00:00,2026-08-15 00:00:00+00:00,22.35,187.15,USD,3.0873032407407406,104.75,listed,,
+rZ7HnEZ1AfJbPN,Magic Hunks,Dance/Electronic,Columbus,Skully's Music Diner,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,25.95,59.95,USD,0.08730324074074074,42.95,listed,,
+rZ7HnEZ1AfJbbK,Oliver Sayani & Timbo,Country,Nashville,The Basement,,,2026-08-11 21:54:17+00:00,2026-08-13 00:00:00+00:00,12.85,12.85,USD,1.0873032407407408,12.85,listed,,
+rZ7HnEZ1AfOVaN,STS9 Human Dream Tour,Dance/Electronic,Bend,Midtown,,,2026-08-11 21:54:17+00:00,2026-08-13 03:00:00+00:00,48.31,48.31,USD,1.2123032407407408,48.31,listed,,
+rZ7HnEZ1AfP0Ad,THE CYBERTRONIC SPREE - P.R.O.M. TOUR,Rock,Phoenix,Crescent Ballroom,,,2026-08-11 21:54:17+00:00,2026-08-12 02:30:00+00:00,30.89,43.25,USD,0.1914699074074074,37.07,listed,,
+rZ7HnEZ1AfP80N,"Benjamin William Hastings + Aodhán King: Happy To Be Here Tour - Sacramento (Elk Grove), CA",Religious,Elk Grove,Creekside Christian Church,,,2026-08-11 21:54:17+00:00,2026-08-13 02:00:00+00:00,27.62,93.02,USD,1.170636574074074,60.32,listed,,
+rZ7HnEZ1AfPK3d,"Benjamin William Hastings + Aodhán King: Happy To Be Here Tour - Grants Pass, OR",Religious,Grants Pass,Edgewater Christian Fellowship,,,2026-08-11 21:54:17+00:00,2026-08-14 02:00:00+00:00,27.62,93.02,USD,2.170636574074074,60.32,listed,,
+rZ7HnEZ1AfPZuN,RIOT,Dance/Electronic,Kansas City,Aura KC,,,2026-08-11 21:54:17+00:00,2026-08-14 02:30:00+00:00,18.95,31.24,USD,2.1914699074074075,25.095,listed,,
+rZ7HnEZ1AfPe_N,"The SpYder Stompers  , Andy Cohen + Eleanor Ellis + Bill Ellis ",Folk,Cleveland,Treelawn Social Club,,,2026-08-11 21:54:17+00:00,2026-08-13 23:30:00+00:00,23.88,23.88,USD,2.0664699074074075,23.88,listed,,
+rZ7HnEZ1AfPekd,Gay Ole Opry Presents: Lilith Feral 2-SHOW-PASS,Other,Nashville,The Basement,,,2026-08-11 21:54:17+00:00,2026-07-15 14:00:00+00:00,27.22,27.22,USD,-27.329363425925926,27.22,listed,,
+rZ7HnEZ1AfPgZN,Leedz Edutainment And Smokehouse Media Present: EXITFAME & Friends Vol.2,Hip-Hop/Rap,Cambridge,Sonia,,,2026-08-11 21:54:17+00:00,2026-08-14 23:00:00+00:00,18.8,18.8,USD,3.045636574074074,18.8,listed,,
+rZ7HnEZ1AfPvod,Agalloch with Barren Heir and John Haughm (solo),Metal,Chicago,Thalia Hall,,,2026-08-11 21:54:17+00:00,2026-08-13 00:30:00+00:00,46.39,66.63,USD,1.108136574074074,56.51,listed,,
+rZ7HnEZ1AfZU_7,$5 Thursdays!,World,Denver,La Rumba,,,2026-08-11 21:54:17+00:00,2026-08-14 02:00:00+00:00,8.73,8.73,USD,2.170636574074074,8.73,listed,,
+rZ7HnEZ1AfZp_V,Saranac Thursdays: Be Kind and Rewind: Ultimate 90's Experience,Pop,Old Forge,Outer Space Old Forge,,,2026-08-11 21:54:17+00:00,2026-08-13 22:00:00+00:00,11.55,11.55,USD,2.0039699074074075,11.55,listed,,
+rZ7HnEZ1AfaAx7,"Alden Booking Presents: The Collective Collapse Tour featuring: Collective Dust, Coraline’s Collapse, One For Sorrow and Capo",Other,Rutherford,Williams Center - CUG Cantina - Rutherford,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,13.63,13.63,USD,0.08730324074074074,13.63,listed,,
+rZ7HnEZ1AfaE00,"Retained Surgical Instrument, Pariah,Gnarcoossee, and Nocturnal Dawn",Metal,Winter Park,Conduit,,,2026-08-11 21:54:17+00:00,2026-08-12 23:00:00+00:00,19.9,19.9,USD,1.045636574074074,19.9,listed,,
+rZ7HnEZ1AfaEJ7,Jason Maksymilian & Friends,Alternative,New York,Berlin,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,17.69,17.69,USD,0.08730324074074074,17.69,listed,,
+rZ7HnEZ1AfaKf0,Whiskey Wednesday with Special Guest Golden Promise with Sam Tippett Band,Country,Portland,Showdown Saloon,,,2026-08-11 21:54:17+00:00,2026-08-13 03:30:00+00:00,15.92,15.92,USD,1.233136574074074,15.92,listed,,
+rZ7HnEZ1AfaKo0,Two-Step Tuesday with Shorty & the Mustangs and Dance Lessons with Peggy,Country,Portland,Showdown Saloon,,,2026-08-11 21:54:17+00:00,2026-08-12 02:30:00+00:00,13.86,13.86,USD,0.1914699074074074,13.86,listed,,
+rZ7HnEZ1AfaPCf,Agalloch,Metal,Providence,Fete Music Hall,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,38.98,38.98,USD,2.0873032407407406,38.98,listed,,
+rZ7HnEZ1AfaPk7,FIESTA DE PUTXS,Dance/Electronic,Seattle,Chop Suey,,,2026-08-11 21:54:17+00:00,2026-08-14 04:00:00+00:00,13.42,111.0,USD,2.2539699074074075,62.21,listed,,
+rZ7HnEZ1AfaVGf,CHRIS O'LEARY BAND,Blues,Portland,Jack London Revue,,,2026-08-11 21:54:17+00:00,2026-08-12 03:00:00+00:00,26.24,26.24,USD,0.21230324074074075,26.24,listed,,
+rZ7HnEZ1AfaZp7,Taylor Gang and Club Cafe Present: Fedd The God w/ NASH.V.ILL,Hip-Hop/Rap,Pittsburgh,Club Cafe,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,18.48,18.48,USD,2.0873032407407406,18.48,listed,,
+rZ7HnEZ1Afa_aV,"NSAI Performance Series presented by Bank of America: In The Round with JT Harding, Marv Green & Frank Ray",Other,Nashville,The Bluebird Cafe,,,2026-08-11 21:54:17+00:00,2026-08-11 23:00:00+00:00,21.49,21.49,USD,0.04563657407407407,21.49,listed,,
+rZ7HnEZ1Afad17,"Dogma Society, Nautics",Alternative,Dallas,Three Links Deep Ellum,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,28.61,28.61,USD,0.08730324074074074,28.61,listed,,
+rZ7HnEZ1Afad1f,(PRE-SALE): An Evening with Mary Gauthier,Folk,Nashville,The Bluebird Cafe,,,2026-08-11 21:54:17+00:00,2026-08-14 02:00:00+00:00,33.27,33.27,USD,2.170636574074074,33.27,listed,,
+rZ7HnEZ1Afaeuf,Nathan Xander | Cat Casual & the Final Word | Phil Pickens,Folk,New York,Bowery Palace,,,2026-08-11 21:54:17+00:00,2026-08-12 23:30:00+00:00,12.44,12.44,USD,1.0664699074074073,12.44,listed,,
+rZ7HnEZ1AfagPV,"Samsara, Mentally Distrakted,  The Little Ditties, Wage Cage",Alternative,Cleveland Heights,Grog Shop,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,12.59,12.59,USD,0.08730324074074074,12.59,listed,,
+rZ7HnEZ1Afago7,Neal McCoy at The Grainery Live!,Country,Plain City,The Grainery ,,,2026-08-11 21:54:17+00:00,2026-08-13 22:00:00+00:00,45.49,369.94,USD,2.0039699074074075,207.715,listed,,
+rZ7HnEZ1Afak87,Lucky Horse Red / Sports Boyfriend / Pebbles Inc,Other,Chicago,Empty Bottle,,,2026-08-11 21:54:17+00:00,2026-08-12 02:00:00+00:00,16.17,16.17,USD,0.17063657407407407,16.17,listed,,
+rZ7HnEZ1Afakb0,"PRE-SALE: In The Round with Ingrid Andress, Emily Weisband, Seth Ennis & Lauren Hungate",Country,Nashville,The Bluebird Cafe,,,2026-08-11 21:54:17+00:00,2026-08-13 02:00:00+00:00,33.27,33.27,USD,1.170636574074074,33.27,listed,,
+rZ7HnEZ1Afap77,The Tino Kayafas Jazz Trio,Jazz,Pittsburgh,Club Cafe,,,2026-08-11 21:54:17+00:00,2026-08-12 22:30:00+00:00,18.48,18.48,USD,1.0248032407407408,18.48,listed,,
+rZ7HnEZ1AfapF0,Happy Hour w/ Wheeler Creek at Woodlands Tavern,Other,Columbus,Woodlands Tavern,,,2026-08-11 21:54:17+00:00,2026-08-12 22:00:00+00:00,1.5,1.5,USD,1.0039699074074073,1.5,listed,,
+rZ7HnEZ1AfapO0,OMEGA X 2026 TOUR: NO LIMIT in [Miami],Pop,Miami Shores,Miami Theater Center,,,2026-08-11 21:54:17+00:00,2026-08-13 23:00:00+00:00,25.23,87.79,USD,2.045636574074074,56.510000000000005,listed,,
+rZ7HnEZ1AfavqV,TeethTeam,Hip-Hop/Rap,Columbus,Classics Victorys,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,18.5,18.5,USD,2.0873032407407406,18.5,listed,,
+rZ7HnEZ1Afaw37,OVERTIME: The Modern Day Outlaw Tour in Joliet,Hip-Hop/Rap,Joliet,The Forge,,,2026-08-11 21:54:17+00:00,2026-08-14 00:30:00+00:00,24.73,115.1,USD,2.108136574074074,69.91499999999999,listed,,
+rZ7HnEZ1Afb0Od,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Fort Myers, FL",Religious,Fort Myers,First Assembly of God,,,2026-08-11 21:54:17+00:00,2026-08-13 23:00:00+00:00,20.0,93.02,USD,2.045636574074074,56.51,listed,,
+rZ7HnEZ1Afb0jK,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Warner Robins, GA",Religious,Warner Robins,Second Baptist Church,,,2026-08-11 21:54:17+00:00,2026-08-14 23:00:00+00:00,33.6,93.02,USD,3.045636574074074,63.31,listed,,
+rZ7HnEZ1Afb0qd,"Charity Gayle - REJOICE: A Night of Worship w/ special guest, Ryan Kennedy - Ormond Beach, FL",Religious,Ormond Beach,Calvary - Ormond Beach,,,2026-08-11 21:54:17+00:00,2026-08-11 23:00:00+00:00,20.0,116.45,USD,0.04563657407407407,68.225,listed,,
+rZ7HnEZ1AfjOFN,BLUE FRIDAY SPECIAL! Entry to All Shows at the Blue Moon for 2026!,World,Lafayette,Blue Moon Saloon,,,2026-08-11 21:54:17+00:00,2026-01-01 18:00:00+00:00,105.97,105.97,USD,-222.16269675925926,105.97,listed,,
+rZ7HnEZ1AfjOGS,I'm On the List! + 1 (Entry to all shows at the Blue Moon in 2026 for you and a guest and your first drink is on us!),World,Lafayette,Blue Moon Saloon,,,2026-08-11 21:54:17+00:00,2026-01-01 18:00:00+00:00,208.97,208.97,USD,-222.16269675925926,208.97,listed,,
+rZ7HnEZ1AfjzON,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:54:17+00:00,2026-08-14 16:00:00+00:00,23.85,27.85,USD,2.7539699074074075,25.85,listed,,
+rZ7HnEZ1AfjzOd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:54:17+00:00,2026-08-14 18:00:00+00:00,23.85,27.85,USD,2.8373032407407406,25.85,listed,,
+rZ7HnEZ1AfjzQd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:54:17+00:00,2026-08-14 15:00:00+00:00,23.85,27.85,USD,2.7123032407407406,25.85,listed,,
+rZ7HnEZ1Afjz_N,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:54:17+00:00,2026-08-14 14:00:00+00:00,23.85,27.85,USD,2.670636574074074,25.85,listed,,
+rZ7HnEZ1Afjz_S,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:54:17+00:00,2026-08-14 19:00:00+00:00,23.85,27.85,USD,2.8789699074074075,25.85,listed,,
+rZ7HnEZ1Afjzqd,"Day Out With Thomas (TM), Thomas & Friends",Fairs & Festivals,Flint,Crossroads Village & Huckleberry Railroad,,,2026-08-11 21:54:17+00:00,2026-08-14 17:00:00+00:00,23.85,27.85,USD,2.795636574074074,25.85,listed,,
+rZ7HnEZ1Afk__7,Abbie Roper | Grumpy Plum | Dizzy & The Drapes | Deanna Valentine,Other,New York,Bowery Palace,,,2026-08-11 21:54:17+00:00,2026-08-11 23:30:00+00:00,12.44,12.44,USD,0.06646990740740741,12.44,listed,,
+rZ7HnEZ1AfkbuV,GABE STILLMAN plays FITZGERALDS NIGHTCLUB!,Blues,Berwyn,FITZGERALDS NIGHTCLUB,,,2026-08-11 21:54:17+00:00,2026-08-13 01:30:00+00:00,24.38,158.8,USD,1.1498032407407408,91.59,listed,,
+rZ7HnEZ1AfkdC7,The Cold Stares,Rock,New York,Iridium,,,2026-08-11 21:54:17+00:00,2026-08-12 00:30:00+00:00,32.78,38.62,USD,0.10813657407407408,35.7,listed,,
+rZ7HnEZ1Afq9oN,Larry McCray,Jazz,Pawling,Daryl's House,,,2026-08-11 21:54:17+00:00,2026-08-12 23:00:00+00:00,28.69,40.02,USD,1.045636574074074,34.355000000000004,listed,,
+rZ7HnEZ1AfqOoS,Fink,Folk,Evanston,SPACE,,,2026-08-11 21:54:17+00:00,2026-08-13 00:30:00+00:00,33.9,47.17,USD,1.108136574074074,40.535,listed,,
+rZ7HnEZ1Afqoud,THE EX-FACES,Metal,Lexington,Manchester Music Hall,,,2026-08-11 21:54:17+00:00,2026-08-13 00:00:00+00:00,34.47,170.72,USD,1.0873032407407408,102.595,listed,,
+rZ7HnEZ1Afr7ZN,Lettuce Cook Tour,R&B,St. Louis,Atomic Pavilion,,,2026-08-11 21:54:17+00:00,2026-08-14 01:00:00+00:00,43.54,43.54,USD,2.1289699074074075,43.54,listed,,
+rZ7HnEZ1AfrK-K,(((folkYEAH))) Presents: JOHN-ROBERT,Pop,Santa Cruz,The Crepe Place,,,2026-08-11 21:54:17+00:00,2026-08-13 03:00:00+00:00,23.6,23.6,USD,1.2123032407407408,23.6,listed,,
+rZ7HnEZ1AfrZjK,Jammy Buffet: Lakes Below The Mountains Tour,Rock,Newport,The Southgate House Revival - Sanctuary,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,21.43,21.43,USD,0.08730324074074074,21.43,listed,,
+rZ7HnEZ1AfrbuS,Ally The Piper,Pop,Grand Rapids,The Pyramid Scheme,,,2026-08-11 21:54:17+00:00,2026-08-13 00:00:00+00:00,36.54,36.54,USD,1.0873032407407408,36.54,listed,,
+rZ7HnEZ1Afro-d,Dizzy Gillespie All-Star Big Band,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 21:54:17+00:00,2026-08-12 00:00:00+00:00,38.1,54.99,USD,0.08730324074074074,46.545,listed,,
+rZ7HnEZ1Afroxd,Dizzy Gillespie All-Star Big Band,Jazz,New York,Blue Note Jazz Club,,,2026-08-11 21:54:17+00:00,2026-08-12 02:30:00+00:00,38.1,54.99,USD,0.1914699074074074,46.545,listed,,
+rZ7HnEZ1Afv8o7,Vino Louden Blues Band/Nora Jean Wallace Blues Band,Blues,Chicago,Kingston Mines - Chicago Blues Center,,,2026-08-11 21:54:17+00:00,2026-08-15 00:00:00+00:00,23.0,23.0,USD,3.0873032407407406,23.0,listed,,
+rZ7HnEZ1Afvoj7,Mike Wheeler Blues Band/Funky Mojo Daddy Blues Band,Blues,Chicago,Kingston Mines - Chicago Blues Center,,,2026-08-11 21:54:17+00:00,2026-08-13 23:00:00+00:00,18.0,18.0,USD,2.045636574074074,18.0,listed,,
+rZ7HnEZ1Afx3OK,NIK PARR & The Selfless Lovers at FITZGERALDS Nightclub,R&B,Berwyn,FITZGERALDS NIGHTCLUB,,,2026-08-11 21:54:17+00:00,2026-08-14 01:30:00+00:00,24.38,158.8,USD,2.1498032407407406,91.59,listed,,
+rZ7HnEZ1AfxKfd,PORTUGAL. THE MAN,Alternative,Charleston,The Refinery,,,2026-08-11 21:54:17+00:00,2026-08-11 23:30:00+00:00,42.25,93.1,USD,0.06646990740740741,67.675,listed,,
+rZ7HnEZ1AfxZvN,"Fudge, Nolo, Midnight Beverage",Dance/Electronic,Dallas,Three Links Deep Ellum,,,2026-08-11 21:54:17+00:00,2026-08-14 00:00:00+00:00,22.3,22.3,USD,2.0873032407407406,22.3,listed,,
