@@ -139,8 +139,10 @@ with price_card:
     st.markdown('<div class="signal-label">PRICE BAND</div>', unsafe_allow_html=True)
     if selected.get("price_status") == "free_or_no_charge" or selected.get("price_min") == 0:
         st.metric("Min to max", "Free / no charge")
-    elif pd.notna(selected.get("price_min")):
+    elif pd.notna(selected.get("price_min")) and pd.notna(selected.get("price_max")) and selected.get("price_max") > selected.get("price_min"):
         st.metric("Min to max", f"{selected_currency} {selected['price_min']:,.2f} - {selected['price_max']:,.2f}")
+    elif pd.notna(selected.get("price_min")):
+        st.metric("Min to max", f"{selected_currency} {selected['price_min']:,.2f}+")
     else:
         st.metric("Min to max", "Not listed")
 with timing_card:
@@ -150,13 +152,10 @@ with history_card:
     st.markdown('<div class="signal-label">OBSERVATION SIGNAL</div>', unsafe_allow_html=True)
     st.metric("Saved snapshots", len(selected_history))
 
-st.subheader("What does this event look like over time?")
 if len(selected_history) > 1 and selected_history["price_mid"].notna().sum() > 1:
+    st.subheader("What does this event look like over time?")
     st.line_chart(selected_history.set_index("poll_timestamp")[["price_min", "price_max", "price_mid"]], color=["#9bd7e5", "#ff765d", "#b9e8c5"])
-else:
-    st.info("This event has one usable price observation so far. Another daily poll will turn this card into a price path.")
-
-st.divider()
+    st.divider()
 st.subheader("Market context")
 market_left, market_right = st.columns([1.15, 1])
 with market_left:
