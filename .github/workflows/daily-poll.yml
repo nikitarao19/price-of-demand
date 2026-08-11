@@ -20,6 +20,7 @@ jobs:
           python-version: "3.11"
 
       - run: pip install -r requirements.txt
+      - run: pip install -e .
 
       - name: Poll current prices for the tracked panel
         run: python -m scripts.poll_prices

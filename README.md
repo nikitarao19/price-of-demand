@@ -19,6 +19,7 @@ Because Ticketmaster's Discovery API only returns the *current* `priceRanges` (n
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+pip install -e .
 cp .env.example .env
 ```
 
