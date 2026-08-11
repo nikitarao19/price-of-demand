@@ -1,7 +1,12 @@
 """Ticketing demand console for the current pricing data connector."""
 
-import json
+import sys
 from pathlib import Path
+
+# Add repository root to path so config can be imported from anywhere
+sys.path.insert(0, str(Path(__file__).parent.parent.parent.parent))
+
+import json
 
 import pandas as pd
 import streamlit as st
