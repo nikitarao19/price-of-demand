@@ -11,7 +11,7 @@ import json
 import pandas as pd
 import streamlit as st
 
-from config import MODEL_DIR, PROCESSED_DATA_DIR
+from config import EVENT_PANEL_PATH, MODEL_DIR, PROCESSED_DATA_DIR
 
 st.set_page_config(page_title="Price of Demand | Ticketing Console", page_icon="TKT", layout="wide")
 st.markdown(
@@ -79,9 +79,8 @@ if not dataset_path.exists():
     st.stop()
 
 frame = pd.read_csv(dataset_path)
-panel_path = Path("data/event_panel.csv")
-if panel_path.exists():
-    panel_ids = pd.read_csv(panel_path)["event_id"].dropna().astype(str)
+if EVENT_PANEL_PATH.exists():
+    panel_ids = pd.read_csv(EVENT_PANEL_PATH)["event_id"].dropna().astype(str)
     frame = frame.loc[frame["event_id"].astype(str).isin(panel_ids)].copy()
 if "price_mid" not in frame.columns:
     if {"price_min", "price_max"}.issubset(frame.columns):
@@ -100,7 +99,13 @@ event_labels = {}
 for _, row in latest.sort_values("event_name").iterrows():
     name = row.get("event_name") or row["event_id"]
     market = row.get("market") or "market unknown"
-    event_labels[f"{name}  /  {market}"] = row["event_id"]
+    # Include event start date to distinguish multiple shows of same artist
+    if pd.notna(row.get("event_start")):
+        date_str = pd.to_datetime(row["event_start"]).strftime("%b %d")
+        label = f"{name}  /  {market}  ({date_str})"
+    else:
+        label = f"{name}  /  {market}"
+    event_labels[row["event_id"]] = label
 
 with st.sidebar:
     with st.expander("Ticketmaster / data details", expanded=False):
@@ -113,8 +118,7 @@ st.write("")
 
 st.subheader("Pick an event")
 st.caption("Start here: choose a show to open its ticket and price readout.")
-selected_label = st.selectbox("SELECT A SHOW", list(event_labels))
-selected_id = event_labels[selected_label]
+selected_id = st.selectbox("SELECT A SHOW", list(event_labels), format_func=lambda eid: event_labels[eid])
 selected_history = frame.loc[frame["event_id"].eq(selected_id)].sort_values("poll_timestamp")
 selected = selected_history.iloc[-1]
 selected_price = selected.get("price_mid")
