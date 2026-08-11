@@ -92,7 +92,6 @@ if "price_mid" not in frame.columns:
 if "poll_timestamp" in frame.columns:
     frame["poll_timestamp"] = pd.to_datetime(frame["poll_timestamp"], utc=True, errors="coerce")
 price_rows = frame.dropna(subset=["price_mid"]).copy()
-poll_dates = frame["poll_timestamp"].dt.date.nunique() if "poll_timestamp" in frame else 0
 coverage = len(price_rows) / len(frame) if len(frame) else 0
 
 latest = frame.sort_values("poll_timestamp").drop_duplicates("event_id", keep="last")
@@ -214,8 +213,10 @@ with st.expander("See the model's accuracy numbers"):
 
 st.divider()
 st.markdown('<div class="eyebrow">IS THE PRICE CHANGING OVER TIME?</div>', unsafe_allow_html=True)
-metrics_path = MODEL_DIR / "metrics.json"
-if poll_dates >= 2 and metrics_path.exists():
-    render_model_metrics(json.loads(metrics_path.read_text(encoding="utf-8")))
-else:
-    st.caption("Today's-price models are trained across all shows already. Price-change models stay off until we've collected repeated observations for the same shows.")
+repeat_events = int(frame.groupby("event_id")["poll_timestamp"].nunique().gt(1).sum())
+tracked_events = frame["event_id"].nunique()
+st.caption(
+    f"Not modeled yet. A price-change model needs the same show checked on more than one day — "
+    f"so far {repeat_events} of {tracked_events} tracked shows qualify. The model above predicts "
+    f"today's price level, not whether a show's price is trending up or down."
+)
