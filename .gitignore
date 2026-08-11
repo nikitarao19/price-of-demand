@@ -9,6 +9,8 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/event_panel.csv
+data/event_panel.csv
 models/*
 !models/.gitkeep
 reports/*
