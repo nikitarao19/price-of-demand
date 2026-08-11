@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: price-of-demand
+Version: 0.1.0
+Summary: Quantifying dynamic pricing in live event ticketing
+Requires-Python: >=3.11
