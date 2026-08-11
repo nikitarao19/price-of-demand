@@ -12,6 +12,7 @@ import pandas as pd
 import streamlit as st
 
 from config import EVENT_PANEL_PATH, MODEL_DIR, PROCESSED_DATA_DIR
+from price_of_demand.analysis.elasticity import estimate_timing_elasticity
 
 st.set_page_config(page_title="Price of Demand", page_icon="🎟️", layout="wide")
 st.markdown(
@@ -204,19 +205,48 @@ def render_model_metrics(metrics: dict) -> None:
 st.write("")
 st.subheader("④ Read the model notes")
 st.caption("We're experimenting with models that predict a show's price from how soon it is, venue size, and genre. This is an early pattern check, not a claim about cause and effect.")
+st.caption("One honest gap: venue size and a manually-assigned tier were meant to sharpen this, but Ticketmaster's API doesn't expose venue capacity, so that field is always blank and contributes nothing to the model yet — it would need to be filled in by hand per venue.")
+all_metrics = None
+metrics_path = MODEL_DIR / "metrics.json"
+if metrics_path.exists():
+    all_metrics = json.loads(metrics_path.read_text(encoding="utf-8"))
 with st.expander("See the model's accuracy numbers"):
-    metrics_path = MODEL_DIR / "metrics.json"
-    if metrics_path.exists():
-        render_model_metrics(json.loads(metrics_path.read_text(encoding="utf-8")))
+    if all_metrics and isinstance(all_metrics.get("price_level"), dict):
+        render_model_metrics(all_metrics["price_level"])
     else:
         st.info("Run the training pipeline to generate model metrics.")
 
 st.divider()
 st.markdown('<div class="eyebrow">IS THE PRICE CHANGING OVER TIME?</div>', unsafe_allow_html=True)
+timing_sample = frame.dropna(subset=["days_until_event", "price_mid"])
+if len(timing_sample) >= 3:
+    proxy = estimate_timing_elasticity(timing_sample)
+    coefficient = proxy["coefficient_price_per_day"]
+    direction = "lower" if coefficient < 0 else "higher"
+    trend_word = "pricier" if coefficient < 0 else "cheaper"
+    st.caption(
+        f"A rough cross-show proxy, pooling all {proxy['n_observations']:.0f} price checks with a listed price and "
+        f"a known date (some shows checked more than once): each extra day between now and the show is associated "
+        f"with a USD {abs(coefficient):.2f} {direction} price (R² = {proxy['r_squared']:.2f}) — so shows in this "
+        f"data tend to look {trend_word} the closer they get. This compares different shows to each other rather "
+        f"than tracking one show's price over time, so treat it as a pattern worth watching, not a proven trend."
+    )
+else:
+    st.caption("Not enough listed prices with known dates yet to even estimate a rough proxy.")
+
 repeat_events = int(frame.groupby("event_id")["poll_timestamp"].nunique().gt(1).sum())
 tracked_events = frame["event_id"].nunique()
-st.caption(
-    f"Not modeled yet. A price-change model needs the same show checked on more than one day — "
-    f"so far {repeat_events} of {tracked_events} tracked shows qualify. The model above predicts "
-    f"today's price level, not whether a show's price is trending up or down."
-)
+price_change_metrics = all_metrics.get("price_change") if all_metrics else None
+if isinstance(price_change_metrics, dict) and price_change_metrics.get("status") != "not_enough_data":
+    st.caption(
+        f"The real version of this question needs the same show checked on more than one day. We now have "
+        f"{repeat_events} of {tracked_events} tracked shows with a repeat check, which was enough to train an "
+        f"actual price-change model:"
+    )
+    render_model_metrics(price_change_metrics)
+else:
+    st.caption(
+        f"The real version of this question needs the same show checked on more than one day — so far "
+        f"{repeat_events} of {tracked_events} tracked shows qualify. Once there's enough of that, a real "
+        f"price-change model trains automatically and replaces this note."
+    )

@@ -1,11 +1,24 @@
 {
-  "linear": {
-    "rmse": 43.41267008646729,
-    "mae": 28.2152907148361
+  "price_level": {
+    "linear": {
+      "rmse": 43.41267008646729,
+      "mae": 28.2152907148361
+    },
+    "gradient_boosting": {
+      "rmse": 56.03715087810387,
+      "mae": 33.355763546548324
+    },
+    "analysis_target": "current_listed_price_midpoint"
   },
-  "gradient_boosting": {
-    "rmse": 56.03715087810387,
-    "mae": 33.355763546548324
-  },
-  "analysis_target": "current_listed_price_midpoint"
+  "price_change": {
+    "linear": {
+      "rmse": 0.8869725204952094,
+      "mae": 0.3278579534571921
+    },
+    "gradient_boosting": {
+      "rmse": 1.0926906552311713,
+      "mae": 0.6044447556369378
+    },
+    "analysis_target": "price_change_since_previous_observation"
+  }
 }

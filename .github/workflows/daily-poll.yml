@@ -1,0 +1,38 @@
+name: Daily price poll
+
+on:
+  schedule:
+    # 13:00 UTC = 9am US Eastern / 6am US Pacific
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Poll current prices for the tracked panel
+        run: python -m scripts.poll_prices
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+
+      - name: Rebuild the processed dataset and retrain models
+        run: python -m scripts.build_and_train
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed/event_panel.csv models/metrics.json
+          git diff --cached --quiet || git commit -m "Daily price poll: $(date -u +%Y-%m-%d)"
+          git push

@@ -9,7 +9,12 @@ if __name__ == "__main__":
     dataset = build_dataset(RAW_DATA_DIR, PROCESSED_DATA_DIR / "event_panel.csv")
     results = train_models(PROCESSED_DATA_DIR / "event_panel.csv", MODEL_DIR)
     print(f"Processed {len(dataset)} observations")
-    for name, metrics in results.items():
-        if not isinstance(metrics, dict):
+    for block_name, block in results.items():
+        print(f"--- {block_name} ---")
+        if block.get("status") == "not_enough_data":
+            print(f"  skipped: {block['usable_rows']}/{block['minimum_required']} usable rows")
             continue
-        print(f"{name}: RMSE={metrics['rmse']:.3f}, MAE={metrics['mae']:.3f}")
+        for name, metrics in block.items():
+            if not isinstance(metrics, dict):
+                continue
+            print(f"  {name}: RMSE={metrics['rmse']:.3f}, MAE={metrics['mae']:.3f}")
