@@ -1,12 +1,12 @@
 {
   "price_level": {
     "linear": {
-      "rmse": 33.72881228596835,
-      "mae": 22.459733156574853
+      "rmse": 34.3716145777125,
+      "mae": 23.78457463327037
     },
     "gradient_boosting": {
-      "rmse": 44.43650633936821,
-      "mae": 28.27821788193642
+      "rmse": 44.893221296606704,
+      "mae": 28.775635359607573
     },
     "analysis_target": "current_listed_price_midpoint"
   },
