@@ -1,7 +1,7 @@
 {
   "price_level": {
     "linear": {
-      "rmse": 33.23932956665043,
+      "rmse": 33.239329566650426,
       "mae": 21.833522164922364
     },
     "gradient_boosting": {
